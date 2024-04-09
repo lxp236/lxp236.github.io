@@ -1,5 +1,5 @@
 /* @license GNU-GPL-2.0-or-later https://www.drupal.org/licensing/faq */
-.event .centered-container .cta .su-button,.publication .main-region .su-publication-cta .su-button,.stanford-publications.view .js-pager__items .pager__item .button,.su-card .su-button,.su-hero .su-hero__card .su-card__contents .su-card__button .su-button,a.su-button.soe-button--orange,a.su-button.soe-button--pink,a.su-button.soe-button--turquoise {
+.event .centered-container .cta .su-button,.publication .main-region .su-publication-cta .su-button,.peking_university-publications.view .js-pager__items .pager__item .button,.su-card .su-button,.su-hero .su-hero__card .su-card__contents .su-card__button .su-button,a.su-button.soe-button--orange,a.su-button.soe-button--pink,a.su-button.soe-button--turquoise {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     border: 0;
@@ -16,21 +16,21 @@
     width: auto
 }
 
-.event .centered-container .cta .su-button a,.publication .main-region .su-publication-cta .su-button a,.stanford-publications.view .js-pager__items .pager__item .button a,.su-card .su-button a,.su-hero .su-hero__card .su-card__contents .su-card__button .su-button a,a.su-button.soe-button--orange a,a.su-button.soe-button--pink a,a.su-button.soe-button--turquoise a {
+.event .centered-container .cta .su-button a,.publication .main-region .su-publication-cta .su-button a,.peking_university-publications.view .js-pager__items .pager__item .button a,.su-card .su-button a,.su-hero .su-hero__card .su-card__contents .su-card__button .su-button a,a.su-button.soe-button--orange a,a.su-button.soe-button--pink a,a.su-button.soe-button--turquoise a {
     font-weight: 400;
     text-decoration: none
 }
 
-.event .centered-container .cta .su-button:active,.event .centered-container .cta .su-button:focus,.event .centered-container .cta .su-button:hover,.publication .main-region .su-publication-cta .su-button:active,.publication .main-region .su-publication-cta .su-button:focus,.publication .main-region .su-publication-cta .su-button:hover,.stanford-publications.view .js-pager__items .pager__item .button:active,.stanford-publications.view .js-pager__items .pager__item .button:focus,.stanford-publications.view .js-pager__items .pager__item .button:hover,.su-card .su-button:active,.su-card .su-button:focus,.su-card .su-button:hover,.su-hero .su-hero__card .su-card__contents .su-card__button .su-button:active,.su-hero .su-hero__card .su-card__contents .su-card__button .su-button:focus,.su-hero .su-hero__card .su-card__contents .su-card__button .su-button:hover,a.su-button.soe-button--orange:active,a.su-button.soe-button--orange:focus,a.su-button.soe-button--orange:hover,a.su-button.soe-button--pink:active,a.su-button.soe-button--pink:focus,a.su-button.soe-button--pink:hover,a.su-button.soe-button--turquoise:active,a.su-button.soe-button--turquoise:focus,a.su-button.soe-button--turquoise:hover {
+.event .centered-container .cta .su-button:active,.event .centered-container .cta .su-button:focus,.event .centered-container .cta .su-button:hover,.publication .main-region .su-publication-cta .su-button:active,.publication .main-region .su-publication-cta .su-button:focus,.publication .main-region .su-publication-cta .su-button:hover,.peking_university-publications.view .js-pager__items .pager__item .button:active,.peking_university-publications.view .js-pager__items .pager__item .button:focus,.peking_university-publications.view .js-pager__items .pager__item .button:hover,.su-card .su-button:active,.su-card .su-button:focus,.su-card .su-button:hover,.su-hero .su-hero__card .su-card__contents .su-card__button .su-button:active,.su-hero .su-hero__card .su-card__contents .su-card__button .su-button:focus,.su-hero .su-hero__card .su-card__contents .su-card__button .su-button:hover,a.su-button.soe-button--orange:active,a.su-button.soe-button--orange:focus,a.su-button.soe-button--orange:hover,a.su-button.soe-button--pink:active,a.su-button.soe-button--pink:focus,a.su-button.soe-button--pink:hover,a.su-button.soe-button--turquoise:active,a.su-button.soe-button--turquoise:focus,a.su-button.soe-button--turquoise:hover {
     text-decoration: underline
 }
 
 .su-link--action {
-    color: #b1040e
+    color: #6E0507
 }
 
 .su-link--action:after {
-    background-color: #b1040e
+    background-color: #6E0507
 }
 
 a.su-link--external {
@@ -41,7 +41,7 @@ a.su-link--external {
     text-decoration: underline
 }
 
-.stanford-image-cta [data-extlink]:after {
+.peking_university-image-cta [data-extlink]:after {
     display: none
 }
 
@@ -50,7 +50,7 @@ a.su-link--external {
 }
 
 .su-local-footer .mailto svg {
-    fill: #b1040e
+    fill: #6E0507
 }
 
 .su-local-footer .mailto:focus,.su-local-footer .mailto:hover {
@@ -58,7 +58,7 @@ a.su-link--external {
 }
 
 .su-local-footer .mailto:focus svg,.su-local-footer .mailto:hover svg {
-    fill: #2e2d29
+    fill: #352e2a
 }
 
 .soe-bg--pink {
@@ -142,27 +142,27 @@ a.su-link--external {
 }
 
 @media only screen and (min-width: 0) {
-    .section-bgcolor--title.section-event-list--title,.section-bgcolor--title.section-events-past--header,.section-bgcolor--title.section-header,.section-bgcolor--title.section-stanford-news-views-header,.section-bgcolor--title.section-stanford-pubs-views-header,.section-bgcolor--title.su-people-header {
+    .section-bgcolor--title.section-event-list--title,.section-bgcolor--title.section-events-past--header,.section-bgcolor--title.section-header,.section-bgcolor--title.section-peking_university-news-views-header,.section-bgcolor--title.section-peking_university-pubs-views-header,.section-bgcolor--title.su-people-header {
         padding-bottom:8rem;
         padding-top: 8rem
     }
 }
 
 @media only screen and (min-width: 768px) {
-    .section-bgcolor--title.section-event-list--title,.section-bgcolor--title.section-events-past--header,.section-bgcolor--title.section-header,.section-bgcolor--title.section-stanford-news-views-header,.section-bgcolor--title.section-stanford-pubs-views-header,.section-bgcolor--title.su-people-header {
+    .section-bgcolor--title.section-event-list--title,.section-bgcolor--title.section-events-past--header,.section-bgcolor--title.section-header,.section-bgcolor--title.section-peking_university-news-views-header,.section-bgcolor--title.section-peking_university-pubs-views-header,.section-bgcolor--title.su-people-header {
         padding-bottom:9rem;
         padding-top: 9rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .section-bgcolor--title.section-event-list--title,.section-bgcolor--title.section-events-past--header,.section-bgcolor--title.section-header,.section-bgcolor--title.section-stanford-news-views-header,.section-bgcolor--title.section-stanford-pubs-views-header,.section-bgcolor--title.su-people-header {
+    .section-bgcolor--title.section-event-list--title,.section-bgcolor--title.section-events-past--header,.section-bgcolor--title.section-header,.section-bgcolor--title.section-peking_university-news-views-header,.section-bgcolor--title.section-peking_university-pubs-views-header,.section-bgcolor--title.su-people-header {
         padding-bottom:9.5rem;
         padding-top: 9.5rem
     }
 }
 
-.section-bgcolor--title.section-event-list--title .heading-h1,.section-bgcolor--title.section-events-past--header .heading-h1,.section-bgcolor--title.section-header .heading-h1,.section-bgcolor--title.section-stanford-news-views-header .heading-h1,.section-bgcolor--title.section-stanford-pubs-views-header .heading-h1,.section-bgcolor--title.su-people-header .heading-h1 {
+.section-bgcolor--title.section-event-list--title .heading-h1,.section-bgcolor--title.section-events-past--header .heading-h1,.section-bgcolor--title.section-header .heading-h1,.section-bgcolor--title.section-peking_university-news-views-header .heading-h1,.section-bgcolor--title.section-peking_university-pubs-views-header .heading-h1,.section-bgcolor--title.su-people-header .heading-h1 {
     margin: 0
 }
 
@@ -172,11 +172,11 @@ a.su-link--external {
     color: #fff
 }
 
-.section-editorial-content .node-stanford-page-title {
+.section-editorial-content .node-peking_university-page-title {
     margin-top: 0
 }
 
-.section-bgcolor--title.section-editorial-content.section-event-list--title,.section-bgcolor--title.section-editorial-content.section-pubs-list--title,.section-bgcolor--title.section-editorial-content.su-people-header,.section-bgcolor--title.section-stanford-news-views-header {
+.section-bgcolor--title.section-editorial-content.section-event-list--title,.section-bgcolor--title.section-editorial-content.section-pubs-list--title,.section-bgcolor--title.section-editorial-content.su-people-header,.section-bgcolor--title.section-peking_university-news-views-header {
     left: 50%;
     margin-left: -50vw;
     margin-right: -50vw;
@@ -193,7 +193,7 @@ a.su-link--external {
 .page-events .jumpstart-ui--one-column.centered-container,.page-news .jumpstart-ui--one-column.centered-container,.page-people .jumpstart-ui--one-column.centered-container,.page-publications .jumpstart-ui--one-column.centered-container {
     background: linear-gradient(91.01deg,#620059 3.46%,#017e7c 95.48%);
     margin-top: 0;
-    max-width: 100%;
+    max-width: 70%;
     width: 100%
 }
 
@@ -236,52 +236,52 @@ a.su-link--external {
     }
 }
 
-.page-events .node-stanford-page-title,.page-news .node-stanford-page-title,.page-people .node-stanford-page-title,.page-publications .node-stanford-page-title {
+.page-events .node-peking_university-page-title,.page-news .node-peking_university-page-title,.page-people .node-peking_university-page-title,.page-publications .node-peking_university-page-title {
     margin-top: 0
 }
 
-.page-events .node-stanford-page-title h1,.page-news .node-stanford-page-title h1,.page-people .node-stanford-page-title h1,.page-publications .node-stanford-page-title h1 {
+.page-events .node-peking_university-page-title h1,.page-news .node-peking_university-page-title h1,.page-people .node-peking_university-page-title h1,.page-publications .node-peking_university-page-title h1 {
     color: #fff;
     margin: 0 auto
 }
 
 @media only screen and (min-width: 0) {
-    .page-events .node-stanford-page-title h1,.page-news .node-stanford-page-title h1,.page-people .node-stanford-page-title h1,.page-publications .node-stanford-page-title h1 {
+    .page-events .node-peking_university-page-title h1,.page-news .node-peking_university-page-title h1,.page-people .node-peking_university-page-title h1,.page-publications .node-peking_university-page-title h1 {
         max-width:calc(100% - 40px);
         width: calc(100% - 40px)
     }
 }
 
 @media only screen and (min-width: 576px) {
-    .page-events .node-stanford-page-title h1,.page-news .node-stanford-page-title h1,.page-people .node-stanford-page-title h1,.page-publications .node-stanford-page-title h1 {
+    .page-events .node-peking_university-page-title h1,.page-news .node-peking_university-page-title h1,.page-people .node-peking_university-page-title h1,.page-publications .node-peking_university-page-title h1 {
         max-width:calc(100% - 60px);
         width: calc(100% - 60px)
     }
 }
 
 @media only screen and (min-width: 768px) {
-    .page-events .node-stanford-page-title h1,.page-news .node-stanford-page-title h1,.page-people .node-stanford-page-title h1,.page-publications .node-stanford-page-title h1 {
+    .page-events .node-peking_university-page-title h1,.page-news .node-peking_university-page-title h1,.page-people .node-peking_university-page-title h1,.page-publications .node-peking_university-page-title h1 {
         max-width:calc(100% - 100px);
         width: calc(100% - 100px)
     }
 }
 
 @media only screen and (min-width: 992px) {
-    .page-events .node-stanford-page-title h1,.page-news .node-stanford-page-title h1,.page-people .node-stanford-page-title h1,.page-publications .node-stanford-page-title h1 {
+    .page-events .node-peking_university-page-title h1,.page-news .node-peking_university-page-title h1,.page-people .node-peking_university-page-title h1,.page-publications .node-peking_university-page-title h1 {
         max-width:calc(100% - 160px);
         width: calc(100% - 160px)
     }
 }
 
 @media only screen and (min-width: 1200px) {
-    .page-events .node-stanford-page-title h1,.page-news .node-stanford-page-title h1,.page-people .node-stanford-page-title h1,.page-publications .node-stanford-page-title h1 {
+    .page-events .node-peking_university-page-title h1,.page-news .node-peking_university-page-title h1,.page-people .node-peking_university-page-title h1,.page-publications .node-peking_university-page-title h1 {
         max-width:calc(100% - 200px);
         width: calc(100% - 200px)
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .page-events .node-stanford-page-title h1,.page-news .node-stanford-page-title h1,.page-people .node-stanford-page-title h1,.page-publications .node-stanford-page-title h1 {
+    .page-events .node-peking_university-page-title h1,.page-news .node-peking_university-page-title h1,.page-people .node-peking_university-page-title h1,.page-publications .node-peking_university-page-title h1 {
         max-width:1500px;
         width: calc(100% - 200px)
     }
@@ -315,7 +315,7 @@ a.su-button:focus,a.su-button:hover {
 }
 
 a.su-button.soe-button--turquoise {
-    background-color: #b1040e;
+    background-color: #6E0507;
     background-color: #00ece9;
     -webkit-box-shadow: 0 3px 6px rgba(46,45,41,.1);
     box-shadow: 0 3px 6px rgba(46,45,41,.1);
@@ -326,11 +326,11 @@ a.su-button.soe-button--turquoise {
 
 a.su-button.soe-button--turquoise:after,a.su-button.soe-button--turquoise:before {
     background-color: #fff;
-    color: #b1040e
+    color: #6E0507
 }
 
 a.su-button.soe-button--turquoise:focus,a.su-button.soe-button--turquoise:hover {
-    background-color: #2e2d29;
+    background-color: #352e2a;
     color: #fff
 }
 
@@ -352,7 +352,7 @@ a.su-button.soe-button--turquoise:after {
 }
 
 a.su-button.soe-button--pink {
-    background-color: #b1040e;
+    background-color: #6E0507;
     background-color: #ff525c;
     -webkit-box-shadow: 0 3px 6px rgba(46,45,41,.1);
     box-shadow: 0 3px 6px rgba(46,45,41,.1);
@@ -363,11 +363,11 @@ a.su-button.soe-button--pink {
 
 a.su-button.soe-button--pink:after,a.su-button.soe-button--pink:before {
     background-color: #fff;
-    color: #b1040e
+    color: #6E0507
 }
 
 a.su-button.soe-button--pink:focus,a.su-button.soe-button--pink:hover {
-    background-color: #2e2d29;
+    background-color: #352e2a;
     color: #fff
 }
 
@@ -389,7 +389,7 @@ a.su-button.soe-button--pink:after {
 }
 
 a.su-button.soe-button--orange {
-    background-color: #b1040e;
+    background-color: #6E0507;
     background-color: #ffbd54;
     -webkit-box-shadow: 0 3px 6px rgba(46,45,41,.1);
     box-shadow: 0 3px 6px rgba(46,45,41,.1);
@@ -400,11 +400,11 @@ a.su-button.soe-button--orange {
 
 a.su-button.soe-button--orange:after,a.su-button.soe-button--orange:before {
     background-color: #fff;
-    color: #b1040e
+    color: #6E0507
 }
 
 a.su-button.soe-button--orange:focus,a.su-button.soe-button--orange:hover {
-    background-color: #2e2d29;
+    background-color: #352e2a;
     color: #fff
 }
 
@@ -426,22 +426,22 @@ a.su-button.soe-button--orange:after {
 }
 
 .su-card .su-button {
-    background-color: #b1040e;
-    background-color: #00ece9;
+    background-color: #6E0507;
+    background-color: #872c13;
     -webkit-box-shadow: 0 3px 6px rgba(46,45,41,.1);
     box-shadow: 0 3px 6px rgba(46,45,41,.1);
     color: #fff;
-    color: #000;
+    color: #e3ebfc;
     padding: 1rem 2rem 1.15rem
 }
 
 .su-card .su-button:after,.su-card .su-button:before {
     background-color: #fff;
-    color: #b1040e
+    color: #6E0507
 }
 
 .su-card .su-button:focus,.su-card .su-button:hover {
-    background-color: #2e2d29;
+    background-color: #352e2a;
     color: #fff
 }
 
@@ -469,7 +469,7 @@ a.su-button.soe-button--orange:after {
     box-shadow: 0 3px 6px rgba(0,0,0,.13),0 3px 6px rgba(0,0,0,.1)
 }
 
-.stanford-stories.stanford-stories-cta-link a:after {
+.peking_university-stories.peking_university-stories-cta-link a:after {
     background-color: #fff
 }
 
@@ -517,7 +517,7 @@ div.su-link--external:after {
 }
 
 .event .centered-container .cta .su-button {
-    background-color: #b1040e;
+    background-color: #6E0507;
     background-color: #ff525c;
     -webkit-box-shadow: 0 3px 6px rgba(46,45,41,.1);
     box-shadow: 0 3px 6px rgba(46,45,41,.1);
@@ -528,11 +528,11 @@ div.su-link--external:after {
 
 .event .centered-container .cta .su-button:after,.event .centered-container .cta .su-button:before {
     background-color: #fff;
-    color: #b1040e
+    color: #6E0507
 }
 
 .event .centered-container .cta .su-button:focus,.event .centered-container .cta .su-button:hover {
-    background-color: #2e2d29
+    background-color: #352e2a
 }
 
 .event .centered-container .cta .su-button:focus:after,.event .centered-container .cta .su-button:focus:before,.event .centered-container .cta .su-button:hover:after,.event .centered-container .cta .su-button:hover:before {
@@ -553,44 +553,44 @@ div.su-link--external:after {
     background-color: #fff
 }
 
-.stanford-events-more-events-block .su-event-list-item__details h2,.su-event-card .su-event-list-item__details h2 {
+.peking_university-events-more-events-block .su-event-list-item__details h2,.su-event-card .su-event-list-item__details h2 {
     font-size: 1.5625em;
     line-height: 1.5
 }
 
-.stanford-events-more-events-block .su-event-list-item__details h2 a,.stanford-events-more-events-block .su-event-list-item__details h2 a:focus,.stanford-events-more-events-block .su-event-list-item__details h2 a:link,.stanford-events-more-events-block .su-event-list-item__details h2 a:visited,.su-event-card .su-event-list-item__details h2 a,.su-event-card .su-event-list-item__details h2 a:focus,.su-event-card .su-event-list-item__details h2 a:link,.su-event-card .su-event-list-item__details h2 a:visited {
+.peking_university-events-more-events-block .su-event-list-item__details h2 a,.peking_university-events-more-events-block .su-event-list-item__details h2 a:focus,.peking_university-events-more-events-block .su-event-list-item__details h2 a:link,.peking_university-events-more-events-block .su-event-list-item__details h2 a:visited,.su-event-card .su-event-list-item__details h2 a,.su-event-card .su-event-list-item__details h2 a:focus,.su-event-card .su-event-list-item__details h2 a:link,.su-event-card .su-event-list-item__details h2 a:visited {
     border-bottom: 3px solid #00ece9;
     font-family: Source Sans\ 3,Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif;
     font-weight: 900;
     text-decoration: none
 }
 
-.stanford-events-more-events-block .su-event-list-item__details h2 a:focus:hover,.stanford-events-more-events-block .su-event-list-item__details h2 a:hover,.stanford-events-more-events-block .su-event-list-item__details h2 a:link:hover,.stanford-events-more-events-block .su-event-list-item__details h2 a:visited:hover,.su-event-card .su-event-list-item__details h2 a:focus:hover,.su-event-card .su-event-list-item__details h2 a:hover,.su-event-card .su-event-list-item__details h2 a:link:hover,.su-event-card .su-event-list-item__details h2 a:visited:hover {
-    border-bottom: 5px solid #2e2d29;
+.peking_university-events-more-events-block .su-event-list-item__details h2 a:focus:hover,.peking_university-events-more-events-block .su-event-list-item__details h2 a:hover,.peking_university-events-more-events-block .su-event-list-item__details h2 a:link:hover,.peking_university-events-more-events-block .su-event-list-item__details h2 a:visited:hover,.su-event-card .su-event-list-item__details h2 a:focus:hover,.su-event-card .su-event-list-item__details h2 a:hover,.su-event-card .su-event-list-item__details h2 a:link:hover,.su-event-card .su-event-list-item__details h2 a:visited:hover {
+    border-bottom: 5px solid #352e2a;
     color: #000;
     text-decoration: none
 }
 
-.stanford-events-more-events-block .su-event-list-item__details h2 a:after,.stanford-events-more-events-block .su-event-list-item__details h2 a:focus:after,.stanford-events-more-events-block .su-event-list-item__details h2 a:link:after,.stanford-events-more-events-block .su-event-list-item__details h2 a:visited:after,.su-event-card .su-event-list-item__details h2 a:after,.su-event-card .su-event-list-item__details h2 a:focus:after,.su-event-card .su-event-list-item__details h2 a:link:after,.su-event-card .su-event-list-item__details h2 a:visited:after {
-    background: #2e2d29;
+.peking_university-events-more-events-block .su-event-list-item__details h2 a:after,.peking_university-events-more-events-block .su-event-list-item__details h2 a:focus:after,.peking_university-events-more-events-block .su-event-list-item__details h2 a:link:after,.peking_university-events-more-events-block .su-event-list-item__details h2 a:visited:after,.su-event-card .su-event-list-item__details h2 a:after,.su-event-card .su-event-list-item__details h2 a:focus:after,.su-event-card .su-event-list-item__details h2 a:link:after,.su-event-card .su-event-list-item__details h2 a:visited:after {
+    background: #352e2a;
     border-bottom: 0
 }
 
-.stanford-events-more-events-block .su-date-stacked .su-event-end-date,.stanford-events-more-events-block .su-date-stacked .su-event-start-date,.su-event-card .su-date-stacked .su-event-end-date,.su-event-card .su-date-stacked .su-event-start-date {
+.peking_university-events-more-events-block .su-date-stacked .su-event-end-date,.peking_university-events-more-events-block .su-date-stacked .su-event-start-date,.su-event-card .su-date-stacked .su-event-end-date,.su-event-card .su-date-stacked .su-event-start-date {
     font-weight: 900
 }
 
-.stanford-events-more-events-block .more-link a,.su-event-card .more-link a {
+.peking_university-events-more-events-block .more-link a,.su-event-card .more-link a {
     background-color: #ff525c
 }
 
-.stanford-events-more-events-block a,.stanford-events-more-events-block a:focus,.stanford-events-more-events-block a:link,.stanford-events-more-events-block a:visited,.su-event-card a,.su-event-card a:focus,.su-event-card a:link,.su-event-card a:visited {
+.peking_university-events-more-events-block a,.peking_university-events-more-events-block a:focus,.peking_university-events-more-events-block a:link,.peking_university-events-more-events-block a:visited,.su-event-card a,.su-event-card a:focus,.su-event-card a:link,.su-event-card a:visited {
     color: #000;
     font-weight: 400;
     text-decoration: none
 }
 
-.stanford-events-more-events-block a:hover,.su-event-card a:hover {
+.peking_university-events-more-events-block a:hover,.su-event-card a:hover {
     text-decoration: underline
 }
 
@@ -599,8 +599,8 @@ div.su-link--external:after {
 }
 
 .su-event-card.su-event-list-item .su-event-list-item__details h2>a:active,.su-event-card.su-event-list-item .su-event-list-item__details h2>a:focus,.su-event-card.su-event-list-item .su-event-list-item__details h2>a:hover {
-    border-bottom: 5px solid #2e2d29;
-    color: #2e2d29;
+    border-bottom: 5px solid #352e2a;
+    color: #352e2a;
     text-decoration: none
 }
 
@@ -614,14 +614,14 @@ div.su-link--external:after {
 
 .su-event-schedule .su-event-schedule__headline a {
     border-bottom: 3px solid #00ece9;
-    color: #2e2d29;
+    color: #352e2a;
     font-family: Source Sans\ 3,Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif;
     font-weight: 900;
     text-decoration: none
 }
 
 .su-event-schedule .su-event-schedule__headline a:focus,.su-event-schedule .su-event-schedule__headline a:link,.su-event-schedule .su-event-schedule__headline a:visited {
-    border-bottom: 5px solid #2e2d29
+    border-bottom: 5px solid #352e2a
 }
 
 .su-event-schedule .su-event-schedule__time {
@@ -643,7 +643,7 @@ div.su-link--external:after {
 }
 
 .su-event-schedule .su-event-schedule__location .address:before {
-    color: #2e2d29;
+    color: #352e2a;
     content: "\f3c5";
     font-family: Font Awesome\ 5 Free;
     font-size: 1.8rem;
@@ -677,41 +677,41 @@ div.su-link--external:after {
     }
 }
 
-.stanford-event-series-list-all .su-event-list-item .event-list-item__type a,.stanford-events-list-page .su-event-list-item .event-list-item__type a,.stanford-events-list-page-filtered .su-event-list-item .event-list-item__type a,.stanford-events-past-past-events-block .su-event-list-item .event-list-item__type a,.su-event-series-items .su-event-list-item .event-list-item__type a {
+.peking_university-event-series-list-all .su-event-list-item .event-list-item__type a,.peking_university-events-list-page .su-event-list-item .event-list-item__type a,.peking_university-events-list-page-filtered .su-event-list-item .event-list-item__type a,.peking_university-events-past-past-events-block .su-event-list-item .event-list-item__type a,.su-event-series-items .su-event-list-item .event-list-item__type a {
     font-weight: 400
 }
 
-.stanford-event-series-list-all .su-event-list-item .event-list-item__type a:hover,.stanford-events-list-page .su-event-list-item .event-list-item__type a:hover,.stanford-events-list-page-filtered .su-event-list-item .event-list-item__type a:hover,.stanford-events-past-past-events-block .su-event-list-item .event-list-item__type a:hover,.su-event-series-items .su-event-list-item .event-list-item__type a:hover {
-    color: #2e2d29;
+.peking_university-event-series-list-all .su-event-list-item .event-list-item__type a:hover,.peking_university-events-list-page .su-event-list-item .event-list-item__type a:hover,.peking_university-events-list-page-filtered .su-event-list-item .event-list-item__type a:hover,.peking_university-events-past-past-events-block .su-event-list-item .event-list-item__type a:hover,.su-event-series-items .su-event-list-item .event-list-item__type a:hover {
+    color: #352e2a;
     text-decoration: underline
 }
 
-.stanford-event-series-list-all .su-event-list-item h2,.stanford-events-list-page .su-event-list-item h2,.stanford-events-list-page-filtered .su-event-list-item h2,.stanford-events-past-past-events-block .su-event-list-item h2,.su-event-series-items .su-event-list-item h2 {
+.peking_university-event-series-list-all .su-event-list-item h2,.peking_university-events-list-page .su-event-list-item h2,.peking_university-events-list-page-filtered .su-event-list-item h2,.peking_university-events-past-past-events-block .su-event-list-item h2,.su-event-series-items .su-event-list-item h2 {
     line-height: 1.5
 }
 
-.stanford-event-series-list-all .su-event-list-item h2 a,.stanford-events-list-page .su-event-list-item h2 a,.stanford-events-list-page-filtered .su-event-list-item h2 a,.stanford-events-past-past-events-block .su-event-list-item h2 a,.su-event-series-items .su-event-list-item h2 a {
+.peking_university-event-series-list-all .su-event-list-item h2 a,.peking_university-events-list-page .su-event-list-item h2 a,.peking_university-events-list-page-filtered .su-event-list-item h2 a,.peking_university-events-past-past-events-block .su-event-list-item h2 a,.su-event-series-items .su-event-list-item h2 a {
     border-bottom: 3px solid #00ece9;
-    color: #2e2d29;
+    color: #352e2a;
     font-family: Source Sans\ 3,Source Sans Pro,Helvetica Neue,Helvetica,Arial,sans-serif;
     font-weight: 900;
     text-decoration: none
 }
 
-.stanford-event-series-list-all .su-event-list-item h2 a:active,.stanford-event-series-list-all .su-event-list-item h2 a:focus,.stanford-event-series-list-all .su-event-list-item h2 a:hover,.stanford-events-list-page .su-event-list-item h2 a:active,.stanford-events-list-page .su-event-list-item h2 a:focus,.stanford-events-list-page .su-event-list-item h2 a:hover,.stanford-events-list-page-filtered .su-event-list-item h2 a:active,.stanford-events-list-page-filtered .su-event-list-item h2 a:focus,.stanford-events-list-page-filtered .su-event-list-item h2 a:hover,.stanford-events-past-past-events-block .su-event-list-item h2 a:active,.stanford-events-past-past-events-block .su-event-list-item h2 a:focus,.stanford-events-past-past-events-block .su-event-list-item h2 a:hover,.su-event-series-items .su-event-list-item h2 a:active,.su-event-series-items .su-event-list-item h2 a:focus,.su-event-series-items .su-event-list-item h2 a:hover {
-    border-bottom: 5px solid #2e2d29
+.peking_university-event-series-list-all .su-event-list-item h2 a:active,.peking_university-event-series-list-all .su-event-list-item h2 a:focus,.peking_university-event-series-list-all .su-event-list-item h2 a:hover,.peking_university-events-list-page .su-event-list-item h2 a:active,.peking_university-events-list-page .su-event-list-item h2 a:focus,.peking_university-events-list-page .su-event-list-item h2 a:hover,.peking_university-events-list-page-filtered .su-event-list-item h2 a:active,.peking_university-events-list-page-filtered .su-event-list-item h2 a:focus,.peking_university-events-list-page-filtered .su-event-list-item h2 a:hover,.peking_university-events-past-past-events-block .su-event-list-item h2 a:active,.peking_university-events-past-past-events-block .su-event-list-item h2 a:focus,.peking_university-events-past-past-events-block .su-event-list-item h2 a:hover,.su-event-series-items .su-event-list-item h2 a:active,.su-event-series-items .su-event-list-item h2 a:focus,.su-event-series-items .su-event-list-item h2 a:hover {
+    border-bottom: 5px solid #352e2a
 }
 
-.stanford-event-series-list-all .su-event-list-item h2 a:after,.stanford-events-list-page .su-event-list-item h2 a:after,.stanford-events-list-page-filtered .su-event-list-item h2 a:after,.stanford-events-past-past-events-block .su-event-list-item h2 a:after,.su-event-series-items .su-event-list-item h2 a:after {
-    background: #2e2d29;
+.peking_university-event-series-list-all .su-event-list-item h2 a:after,.peking_university-events-list-page .su-event-list-item h2 a:after,.peking_university-events-list-page-filtered .su-event-list-item h2 a:after,.peking_university-events-past-past-events-block .su-event-list-item h2 a:after,.su-event-series-items .su-event-list-item h2 a:after {
+    background: #352e2a;
     border-bottom: 0
 }
 
-.stanford-event-series-list-all .su-event-list-item .su-event-list-item__date .su-event-end-date,.stanford-event-series-list-all .su-event-list-item .su-event-list-item__date .su-event-start-date,.stanford-events-list-page .su-event-list-item .su-event-list-item__date .su-event-end-date,.stanford-events-list-page .su-event-list-item .su-event-list-item__date .su-event-start-date,.stanford-events-list-page-filtered .su-event-list-item .su-event-list-item__date .su-event-end-date,.stanford-events-list-page-filtered .su-event-list-item .su-event-list-item__date .su-event-start-date,.stanford-events-past-past-events-block .su-event-list-item .su-event-list-item__date .su-event-end-date,.stanford-events-past-past-events-block .su-event-list-item .su-event-list-item__date .su-event-start-date,.su-event-series-items .su-event-list-item .su-event-list-item__date .su-event-end-date,.su-event-series-items .su-event-list-item .su-event-list-item__date .su-event-start-date {
+.peking_university-event-series-list-all .su-event-list-item .su-event-list-item__date .su-event-end-date,.peking_university-event-series-list-all .su-event-list-item .su-event-list-item__date .su-event-start-date,.peking_university-events-list-page .su-event-list-item .su-event-list-item__date .su-event-end-date,.peking_university-events-list-page .su-event-list-item .su-event-list-item__date .su-event-start-date,.peking_university-events-list-page-filtered .su-event-list-item .su-event-list-item__date .su-event-end-date,.peking_university-events-list-page-filtered .su-event-list-item .su-event-list-item__date .su-event-start-date,.peking_university-events-past-past-events-block .su-event-list-item .su-event-list-item__date .su-event-end-date,.peking_university-events-past-past-events-block .su-event-list-item .su-event-list-item__date .su-event-start-date,.su-event-series-items .su-event-list-item .su-event-list-item__date .su-event-end-date,.su-event-series-items .su-event-list-item .su-event-list-item__date .su-event-start-date {
     font-weight: 900
 }
 
-.stanford-event-series-list-all .js-pager__items .pager__item .button,.stanford-events-list-page .js-pager__items .pager__item .button,.stanford-events-list-page-filtered .js-pager__items .pager__item .button,.stanford-events-past-past-events-block .js-pager__items .pager__item .button,.su-event-series-items .js-pager__items .pager__item .button {
+.peking_university-event-series-list-all .js-pager__items .pager__item .button,.peking_university-events-list-page .js-pager__items .pager__item .button,.peking_university-events-list-page-filtered .js-pager__items .pager__item .button,.peking_university-events-past-past-events-block .js-pager__items .pager__item .button,.su-event-series-items .js-pager__items .pager__item .button {
     background-color: #00ece9;
     border: 1px solid #c6c6c6;
     -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.13),0 3px 6px rgba(0,0,0,.1);
@@ -719,64 +719,64 @@ div.su-link--external:after {
     color: #000
 }
 
-.stanford-event-series-list-all .js-pager__items .pager__item .button:hover,.stanford-events-list-page .js-pager__items .pager__item .button:hover,.stanford-events-list-page-filtered .js-pager__items .pager__item .button:hover,.stanford-events-past-past-events-block .js-pager__items .pager__item .button:hover,.su-event-series-items .js-pager__items .pager__item .button:hover {
+.peking_university-event-series-list-all .js-pager__items .pager__item .button:hover,.peking_university-events-list-page .js-pager__items .pager__item .button:hover,.peking_university-events-list-page-filtered .js-pager__items .pager__item .button:hover,.peking_university-events-past-past-events-block .js-pager__items .pager__item .button:hover,.su-event-series-items .js-pager__items .pager__item .button:hover {
     color: #fff
 }
 
 @media only screen and (min-width: 0) {
-    .stanford-event-series-list-all {
+    .peking_university-event-series-list-all {
         padding-top:3.2rem
     }
 }
 
 @media only screen and (min-width: 768px) {
-    .stanford-event-series-list-all {
+    .peking_university-event-series-list-all {
         padding-top:3.6rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .stanford-event-series-list-all {
+    .peking_university-event-series-list-all {
         padding-top:3.8rem
     }
 }
 
-.section-event-series--header .node-stanford-event-series-title {
+.section-event-series--header .node-peking_university-event-series-title {
     margin-top: 0
 }
 
 @media only screen and (min-width: 0) {
-    .section-event-series--header .node-stanford-event-series-title {
+    .section-event-series--header .node-peking_university-event-series-title {
         padding-top:8rem
     }
 }
 
 @media only screen and (min-width: 768px) {
-    .section-event-series--header .node-stanford-event-series-title {
+    .section-event-series--header .node-peking_university-event-series-title {
         padding-top:9rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .section-event-series--header .node-stanford-event-series-title {
+    .section-event-series--header .node-peking_university-event-series-title {
         padding-top:9.5rem
     }
 }
 
 @media only screen and (min-width: 0) {
-    .node-stanford-page-su-page-banner {
+    .node-peking_university-page-su-page-banner {
         margin-bottom:9.6rem
     }
 }
 
 @media only screen and (min-width: 768px) {
-    .node-stanford-page-su-page-banner {
+    .node-peking_university-page-su-page-banner {
         margin-bottom:10.8rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .node-stanford-page-su-page-banner {
+    .node-peking_university-page-su-page-banner {
         margin-bottom:11.4rem
     }
 }
@@ -831,7 +831,7 @@ div.su-link--external:after {
 }
 
 .su-hero .su-hero__card .su-card__contents .su-card__button .su-button {
-    background-color: #b1040e;
+    background-color: #6E0507;
     background-color: #ffbd54;
     -webkit-box-shadow: 0 3px 6px rgba(46,45,41,.1);
     box-shadow: 0 3px 6px rgba(46,45,41,.1);
@@ -842,11 +842,11 @@ div.su-link--external:after {
 
 .su-hero .su-hero__card .su-card__contents .su-card__button .su-button:after,.su-hero .su-hero__card .su-card__contents .su-card__button .su-button:before {
     background-color: #fff;
-    color: #b1040e
+    color: #6E0507
 }
 
 .su-hero .su-hero__card .su-card__contents .su-card__button .su-button:focus,.su-hero .su-hero__card .su-card__contents .su-card__button .su-button:hover {
-    background-color: #2e2d29;
+    background-color: #352e2a;
     color: #fff
 }
 
@@ -865,14 +865,14 @@ div.su-link--external:after {
 }
 
 .su-hero .su-hero__card .su-card__contents .su-card__button .su-button.su-link--external:after {
-    background-color: #2e2d29
+    background-color: #352e2a
 }
 
 .su-hero .su-hero__card .su-card__contents .su-card__button .su-button.su-link--external:focus:after,.su-hero .su-hero__card .su-card__contents .su-card__button .su-button.su-link--external:hover:after {
     background-color: #fff
 }
 
-.ptype-stanford-layout .su-image-cta-paragraph__image .field-media-image {
+.ptype-peking_university-layout .su-image-cta-paragraph__image .field-media-image {
     -webkit-transform: scale(1);
     transform: scale(1);
     -webkit-transition: -webkit-transform 1s ease;
@@ -881,45 +881,45 @@ div.su-link--external:after {
     transition: transform 1s ease,-webkit-transform 1s ease
 }
 
-.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph {
+.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph {
     cursor: pointer
 }
 
-.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph:hover .su-image-cta-paragraph__image {
+.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph:hover .su-image-cta-paragraph__image {
     overflow: hidden
 }
 
-.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph:hover .su-image-cta-paragraph__image .field-media-image {
+.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph:hover .su-image-cta-paragraph__image .field-media-image {
     -webkit-transform: scale(1.02);
     transform: scale(1.02)
 }
 
-.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph:hover a {
+.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph:hover a {
     color: #fff
 }
 
-.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph:hover a:focus,.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph:hover a:hover {
+.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph:hover a:focus,.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph:hover a:hover {
     text-decoration: underline
 }
 
-.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph:hover a:focus:after,.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph:hover a:hover:after {
+.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph:hover a:focus:after,.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph:hover a:hover:after {
     background-color: #fff
 }
 
-.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph:hover .su-image-cta-paragraph__link {
+.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph:hover .su-image-cta-paragraph__link {
     color: #fff
 }
 
-.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph:hover .su-image-cta-paragraph__link:after {
+.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph:hover .su-image-cta-paragraph__link:after {
     background-color: #fff
 }
 
-.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph .su-link--external {
+.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph .su-link--external {
     text-decoration: none
 }
 
 @supports ((-webkit-mask-repeat: no-repeat) or (mask-repeat:no-repeat)) {
-    .ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph .su-link--external:after {
+    .ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph .su-link--external:after {
         content:"";
         display: inline-block;
         height: 10px;
@@ -930,11 +930,11 @@ div.su-link--external:after {
         width: 10px
     }
 
-    .ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph .su-link--external:focus:after,.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph .su-link--external:hover:after {
-        background-color: #2e2d29
+    .ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph .su-link--external:focus:after,.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph .su-link--external:hover:after {
+        background-color: #352e2a
     }
 
-    .ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph .su-link--external:after {
+    .ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph .su-link--external:after {
         background-color: #006cb8;
         margin-left: .4em;
         margin-right: .3em;
@@ -944,69 +944,69 @@ div.su-link--external:after {
         transition: transform .2s ease-in-out,mask-image .2s ease-in-out,-webkit-transform .2s ease-in-out,-webkit-mask-image .2s ease-in-out
     }
 
-    .ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph .su-link--external:focus:after,.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph .su-link--external:hover:after {
+    .ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph .su-link--external:focus:after,.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph .su-link--external:hover:after {
         -webkit-transform: translate3d(.15em,-.15em,0);
         transform: translate3d(.15em,-.15em,0)
     }
 }
 
-.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph .su-link--external:after {
+.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph .su-link--external:after {
     background-color: #000
 }
 
-.ptype-stanford-layout .ptype-stanford-image-cta .su-image-cta-paragraph .su-image-cta-paragraph__link:after {
+.ptype-peking_university-layout .ptype-peking_university-image-cta .su-image-cta-paragraph .su-image-cta-paragraph__link:after {
     display: none
 }
 
-.paragraph-item:nth-of-type(2n) .layout>div:first-of-type .ptype-stanford-image-cta .su-image-cta-paragraph {
+.paragraph-item:nth-of-type(2n) .layout>div:first-of-type .ptype-peking_university-image-cta .su-image-cta-paragraph {
     background-color: #ffbd54
 }
 
-.paragraph-item:nth-of-type(2n) .layout>div:first-of-type .ptype-stanford-image-cta .su-image-cta-paragraph:hover {
-    background-color: #2e2d29
+.paragraph-item:nth-of-type(2n) .layout>div:first-of-type .ptype-peking_university-image-cta .su-image-cta-paragraph:hover {
+    background-color: #352e2a
 }
 
-.paragraph-item:nth-of-type(2n) .layout>div:nth-of-type(2) .ptype-stanford-image-cta .su-image-cta-paragraph {
+.paragraph-item:nth-of-type(2n) .layout>div:nth-of-type(2) .ptype-peking_university-image-cta .su-image-cta-paragraph {
     background-color: #00ece9
 }
 
-.paragraph-item:nth-of-type(2n) .layout>div:nth-of-type(2) .ptype-stanford-image-cta .su-image-cta-paragraph:hover {
-    background-color: #2e2d29
+.paragraph-item:nth-of-type(2n) .layout>div:nth-of-type(2) .ptype-peking_university-image-cta .su-image-cta-paragraph:hover {
+    background-color: #352e2a
 }
 
-.paragraph-item:nth-of-type(2n) .layout>div:nth-of-type(3) .ptype-stanford-image-cta .su-image-cta-paragraph {
+.paragraph-item:nth-of-type(2n) .layout>div:nth-of-type(3) .ptype-peking_university-image-cta .su-image-cta-paragraph {
     background-color: #ff525c
 }
 
-.paragraph-item:nth-of-type(2n) .layout>div:nth-of-type(3) .ptype-stanford-image-cta .su-image-cta-paragraph:hover {
-    background-color: #2e2d29
+.paragraph-item:nth-of-type(2n) .layout>div:nth-of-type(3) .ptype-peking_university-image-cta .su-image-cta-paragraph:hover {
+    background-color: #352e2a
 }
 
-.paragraph-item:nth-of-type(odd) .layout>div:first-of-type .ptype-stanford-image-cta .su-image-cta-paragraph {
+.paragraph-item:nth-of-type(odd) .layout>div:first-of-type .ptype-peking_university-image-cta .su-image-cta-paragraph {
     background-color: #00ece9
 }
 
-.paragraph-item:nth-of-type(odd) .layout>div:first-of-type .ptype-stanford-image-cta .su-image-cta-paragraph:hover {
-    background-color: #2e2d29
+.paragraph-item:nth-of-type(odd) .layout>div:first-of-type .ptype-peking_university-image-cta .su-image-cta-paragraph:hover {
+    background-color: #352e2a
 }
 
-.paragraph-item:nth-of-type(odd) .layout>div:nth-of-type(2) .ptype-stanford-image-cta .su-image-cta-paragraph {
+.paragraph-item:nth-of-type(odd) .layout>div:nth-of-type(2) .ptype-peking_university-image-cta .su-image-cta-paragraph {
     background-color: #ff525c
 }
 
-.paragraph-item:nth-of-type(odd) .layout>div:nth-of-type(2) .ptype-stanford-image-cta .su-image-cta-paragraph:hover {
-    background-color: #2e2d29
+.paragraph-item:nth-of-type(odd) .layout>div:nth-of-type(2) .ptype-peking_university-image-cta .su-image-cta-paragraph:hover {
+    background-color: #352e2a
 }
 
-.paragraph-item:nth-of-type(odd) .layout>div:nth-of-type(3) .ptype-stanford-image-cta .su-image-cta-paragraph {
+.paragraph-item:nth-of-type(odd) .layout>div:nth-of-type(3) .ptype-peking_university-image-cta .su-image-cta-paragraph {
     background-color: #ffbd54
 }
 
-.layout .ptype-stanford-image-cta .su-image-cta-paragraph:hover,.paragraph-item:nth-of-type(odd) .layout>div:nth-of-type(3) .ptype-stanford-image-cta .su-image-cta-paragraph:hover {
-    background-color: #2e2d29
+.layout .ptype-peking_university-image-cta .su-image-cta-paragraph:hover,.paragraph-item:nth-of-type(odd) .layout>div:nth-of-type(3) .ptype-peking_university-image-cta .su-image-cta-paragraph:hover {
+    background-color: #352e2a
 }
 
-.layout .ptype-stanford-image-cta .su-image-cta-paragraph:hover .su-link--external:after {
+.layout .ptype-peking_university-image-cta .su-image-cta-paragraph:hover .su-link--external:after {
     background-color: #fff
 }
 
@@ -1024,7 +1024,7 @@ div.su-link--external:after {
 }
 
 .layout .su-image-cta-paragraph .su-image-cta-paragraph__link:after {
-    background-color: #2e2d29
+    background-color: #352e2a
 }
 
 .layout .su-image-cta-paragraph .su-image-cta-paragraph__link:after:active,.layout .su-image-cta-paragraph .su-image-cta-paragraph__link:after:focus,.layout .su-image-cta-paragraph .su-image-cta-paragraph__link:after:hover {
@@ -1037,7 +1037,7 @@ div.su-link--external:after {
 
 .su-news-list .su-news-article a h2 {
     border-bottom: 3px solid #00ece9;
-    color: #2e2d29;
+    color: #352e2a;
     font-weight: 900;
     text-decoration: none
 }
@@ -1047,11 +1047,11 @@ div.su-link--external:after {
 }
 
 .su-news-list .su-news-article a:active h2,.su-news-list .su-news-article a:focus h2,.su-news-list .su-news-article a:hover h2 {
-    border-bottom: 5px solid #2e2d29
+    border-bottom: 5px solid #352e2a
 }
 
 .su-news-list .su-news-article a:after {
-    background-color: #2e2d29
+    background-color: #352e2a
 }
 
 @media only screen and (min-width: 0) {
@@ -1086,20 +1086,20 @@ div.su-link--external:after {
 }
 
 .js-pager__items .pager__item .button:hover {
-    background-color: #2e2d29;
+    background-color: #352e2a;
     color: #fff
 }
 
-.ds-entity--stanford-news h2,.stanford-news--cards h2,.stanford-news-vertical-teaser-term h2 {
+.ds-entity--peking_university-news h2,.peking_university-news--cards h2,.peking_university-news-vertical-teaser-term h2 {
     line-height: 1.5
 }
 
-.ds-entity--stanford-news .su-news-vertical-teaser .su-news-vertical-teaser__link,.stanford-news--cards .su-news-vertical-teaser .su-news-vertical-teaser__link,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-vertical-teaser__link {
+.ds-entity--peking_university-news .su-news-vertical-teaser .su-news-vertical-teaser__link,.peking_university-news--cards .su-news-vertical-teaser .su-news-vertical-teaser__link,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-vertical-teaser__link {
     text-decoration: none
 }
 
 @media only screen and (min-width: 0) {
-    .ds-entity--stanford-news .su-news-vertical-teaser .su-news-header,.stanford-news--cards .su-news-vertical-teaser .su-news-header,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header {
+    .ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header,.peking_university-news--cards .su-news-vertical-teaser .su-news-header,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header {
         margin-bottom:3.2rem;
         margin-left: 3.2rem;
         margin-right: 3.2rem
@@ -1107,7 +1107,7 @@ div.su-link--external:after {
 }
 
 @media only screen and (min-width: 768px) {
-    .ds-entity--stanford-news .su-news-vertical-teaser .su-news-header,.stanford-news--cards .su-news-vertical-teaser .su-news-header,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header {
+    .ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header,.peking_university-news--cards .su-news-vertical-teaser .su-news-header,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header {
         margin-bottom:3.6rem;
         margin-left: 3.6rem;
         margin-right: 3.6rem
@@ -1115,14 +1115,14 @@ div.su-link--external:after {
 }
 
 @media only screen and (min-width: 1500px) {
-    .ds-entity--stanford-news .su-news-vertical-teaser .su-news-header,.stanford-news--cards .su-news-vertical-teaser .su-news-header,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header {
+    .ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header,.peking_university-news--cards .su-news-vertical-teaser .su-news-header,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header {
         margin-bottom:3.8rem;
         margin-left: 3.8rem;
         margin-right: 3.8rem
     }
 }
 
-.ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link {
+.ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link {
     -webkit-animation: none;
     animation: none;
     border-bottom: 3px solid #00ece9;
@@ -1133,7 +1133,7 @@ div.su-link--external:after {
 }
 
 @supports ((-webkit-mask-repeat: no-repeat) or (mask-repeat:no-repeat)) {
-    .ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link:after,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link:after,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:after {
+    .ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link:after,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link:after,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:after {
         background-color:#006cb8;
         content: "";
         display: inline-block;
@@ -1148,30 +1148,30 @@ div.su-link--external:after {
         width: 1.8rem
     }
 
-    .ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link:focus:after,.ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link:hover:after,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link:focus:after,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link:hover:after,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:focus:after,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:hover:after {
-        background-color: #2e2d29
+    .ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link:focus:after,.ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link:hover:after,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link:focus:after,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link:hover:after,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:focus:after,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:hover:after {
+        background-color: #352e2a
     }
 }
 
-.ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link:focus,.ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link:hover,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link:focus,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link:hover,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:focus,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:hover {
-    border-bottom: 5px solid #2e2d29
+.ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link:focus,.ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link:hover,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link:focus,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link:hover,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:focus,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:hover {
+    border-bottom: 5px solid #352e2a
 }
 
-.ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link:focus:after,.ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link:hover:after,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link:focus:after,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link:hover:after,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:focus:after,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:hover:after {
+.ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link:focus:after,.ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link:hover:after,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link:focus:after,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link:hover:after,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:focus:after,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:hover:after {
     -webkit-transform: none;
     transform: none
 }
 
-.ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link:after,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link:after,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:after {
-    background-color: #2e2d29
+.ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link:after,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link:after,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link:after {
+    background-color: #352e2a
 }
 
-.ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external {
+.ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external {
     text-decoration: none
 }
 
 @supports ((-webkit-mask-repeat: no-repeat) or (mask-repeat:no-repeat)) {
-    .ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after {
+    .ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after {
         content:"";
         display: inline-block;
         height: 1.3rem;
@@ -1182,11 +1182,11 @@ div.su-link--external:after {
         width: 1.3rem
     }
 
-    .ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:focus:after,.ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:hover:after,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:focus:after,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:hover:after,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:focus:after,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:hover:after {
-        background-color: #2e2d29
+    .ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:focus:after,.ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:hover:after,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:focus:after,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:hover:after,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:focus:after,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:hover:after {
+        background-color: #352e2a
     }
 
-    .ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after {
+    .ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after {
         background-color: #006cb8;
         margin-left: .4em;
         margin-right: .3em;
@@ -1196,39 +1196,39 @@ div.su-link--external:after {
         transition: transform .2s ease-in-out,mask-image .2s ease-in-out,-webkit-transform .2s ease-in-out,-webkit-mask-image .2s ease-in-out
     }
 
-    .ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:focus:after,.ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:hover:after,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:focus:after,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:hover:after,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:focus:after,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:hover:after {
+    .ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:focus:after,.ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:hover:after,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:focus:after,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:hover:after,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:focus:after,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:hover:after {
         -webkit-transform: translate3d(.15em,-.15em,0);
         transform: translate3d(.15em,-.15em,0)
     }
 }
 
-.ds-entity--stanford-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after,.stanford-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after,.stanford-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after {
-    background-color: #2e2d29
+.ds-entity--peking_university-news .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after,.peking_university-news--cards .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser .su-news-header .su-link.su-link--external:after {
+    background-color: #352e2a
 }
 
-.ds-entity--stanford-news .stanford-news--cards>.more-link a,.stanford-news--cards .stanford-news--cards>.more-link a,.stanford-news-vertical-teaser-term .stanford-news--cards>.more-link a {
+.ds-entity--peking_university-news .peking_university-news--cards>.more-link a,.peking_university-news--cards .peking_university-news--cards>.more-link a,.peking_university-news-vertical-teaser-term .peking_university-news--cards>.more-link a {
     background-color: #00ece9;
     color: #000
 }
 
-.ds-entity--stanford-news .stanford-news--cards>.more-link a:hover,.stanford-news--cards .stanford-news--cards>.more-link a:hover,.stanford-news-vertical-teaser-term .stanford-news--cards>.more-link a:hover {
-    background-color: #2e2d29;
+.ds-entity--peking_university-news .peking_university-news--cards>.more-link a:hover,.peking_university-news--cards .peking_university-news--cards>.more-link a:hover,.peking_university-news-vertical-teaser-term .peking_university-news--cards>.more-link a:hover {
+    background-color: #352e2a;
     color: #fff
 }
 
-.ds-entity--stanford-news .su-news-vertical-teaser.su-card .su-news-vertical-teaser__link:hover h2,.stanford-news--cards .su-news-vertical-teaser.su-card .su-news-vertical-teaser__link:hover h2,.stanford-news-vertical-teaser-term .su-news-vertical-teaser.su-card .su-news-vertical-teaser__link:hover h2 {
+.ds-entity--peking_university-news .su-news-vertical-teaser.su-card .su-news-vertical-teaser__link:hover h2,.peking_university-news--cards .su-news-vertical-teaser.su-card .su-news-vertical-teaser__link:hover h2,.peking_university-news-vertical-teaser-term .su-news-vertical-teaser.su-card .su-news-vertical-teaser__link:hover h2 {
     text-decoration: none
 }
 
-.stanford-person-terms-term-name-h1 .page-title {
+.peking_university-person-terms-term-name-h1 .page-title {
     margin: 0
 }
 
-div[class^=stanford-people-grid] .views-col {
+div[class^=peking_university-people-grid] .views-col {
     word-wrap: break-word
 }
 
-div[class^=stanford-people-grid] .js-pager__items .pager__item .button {
+div[class^=peking_university-people-grid] .js-pager__items .pager__item .button {
     background-color: #00ece9;
     border: 1px solid #c6c6c6;
     -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.13),0 3px 6px rgba(0,0,0,.1);
@@ -1236,8 +1236,8 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button {
     color: #000
 }
 
-div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
-    background-color: #2e2d29;
+div[class^=peking_university-people-grid] .js-pager__items .pager__item .button:hover {
+    background-color: #352e2a;
     color: #fff
 }
 
@@ -1276,25 +1276,25 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
     }
 }
 
-.layout--section-person-header.centered-container .node-stanford-person-su-person-short-title {
+.layout--section-person-header.centered-container .node-peking_university-person-su-person-short-title {
     display: none;
     margin-top: 0
 }
 
-.content .right-region .node-stanford-person-su-person-contact .block__title:before,.content .right-region .node-stanford-person-su-person-links .block__title:before,.content .right-region .node-stanford-person-su-person-location-name .block__title:before,.content .right-region .node-stanford-person-su-person-telephone .block__title:before {
+.content .right-region .node-peking_university-person-su-person-contact .block__title:before,.content .right-region .node-peking_university-person-su-person-links .block__title:before,.content .right-region .node-peking_university-person-su-person-location-name .block__title:before,.content .right-region .node-peking_university-person-su-person-telephone .block__title:before {
     color: #fff
 }
 
-.content .right-region .node-stanford-person-su-person-links .su-person-links a:focus,.content .right-region .node-stanford-person-su-person-links .su-person-links a:hover {
+.content .right-region .node-peking_university-person-su-person-links .su-person-links a:focus,.content .right-region .node-peking_university-person-su-person-links .su-person-links a:hover {
     color: #fff;
     text-decoration: underline
 }
 
-.content .right-region .node-stanford-person-su-person-links .su-person-links a:focus:after,.content .right-region .node-stanford-person-su-person-links .su-person-links a:hover:after {
+.content .right-region .node-peking_university-person-su-person-links .su-person-links a:focus:after,.content .right-region .node-peking_university-person-su-person-links .su-person-links a:hover:after {
     background-color: #fff
 }
 
-.content .right-region .node-stanford-person-su-person-links .su-person-links a:after {
+.content .right-region .node-peking_university-person-su-person-links .su-person-links a:after {
     background-color: #ffbd54
 }
 
@@ -1325,11 +1325,11 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
 }
 
 .content .su-person-content .su-button {
-    color: #2e2d29
+    color: #352e2a
 }
 
 .content .su-person-content .su-button.su-link--external:after {
-    background-color: #2e2d29
+    background-color: #352e2a
 }
 
 .content .su-person-content .su-button:hover {
@@ -1341,7 +1341,7 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
 }
 
 .content .su-person-content .su-card {
-    color: #2e2d29
+    color: #352e2a
 }
 
 .content .su-person-content .su-card .su-card__button {
@@ -1363,12 +1363,12 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
 }
 
 .content .su-person-content .su-card a {
-    color: #b1040e;
+    color: #6E0507;
     text-decoration: underline
 }
 
 .content .su-person-content .su-card a:hover {
-    color: #2e2d29
+    color: #352e2a
 }
 
 .content .su-person-content .su-card a.su-link--action {
@@ -1393,7 +1393,7 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
 }
 
 .content .su-person-content .su-person-affiliations .su-link:hover {
-    background-color: #2e2d29;
+    background-color: #352e2a;
     color: #fff
 }
 
@@ -1407,12 +1407,12 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
 }
 
 .content .su-person-content .su-person-profile-link a:hover {
-    background-color: #2e2d29;
+    background-color: #352e2a;
     color: #fff
 }
 
 .publication .main-region .su-publication-cta .su-button {
-    background-color: #b1040e;
+    background-color: #6E0507;
     background-color: #00ece9;
     -webkit-box-shadow: 0 3px 6px rgba(46,45,41,.1);
     box-shadow: 0 3px 6px rgba(46,45,41,.1);
@@ -1423,11 +1423,11 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
 
 .publication .main-region .su-publication-cta .su-button:after,.publication .main-region .su-publication-cta .su-button:before {
     background-color: #fff;
-    color: #b1040e
+    color: #6E0507
 }
 
 .publication .main-region .su-publication-cta .su-button:focus,.publication .main-region .su-publication-cta .su-button:hover {
-    background-color: #2e2d29;
+    background-color: #352e2a;
     color: #fff
 }
 
@@ -1445,7 +1445,7 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
 }
 
 .publication .main-region .su-publication-cta .su-button.su-link--external:after {
-    background-color: #2e2d29
+    background-color: #352e2a
 }
 
 .publication .main-region .su-publication-cta .su-button:hover {
@@ -1456,7 +1456,7 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
     background-color: #fff
 }
 
-.publication .stanford-publications-related .su-card__contents h2>a:not(.su-link--external) {
+.publication .peking_university-publications-related .su-card__contents h2>a:not(.su-link--external) {
     -webkit-animation: none;
     animation: none;
     border-bottom: 3px solid #00ece9;
@@ -1467,7 +1467,7 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
 }
 
 @supports ((-webkit-mask-repeat: no-repeat) or (mask-repeat:no-repeat)) {
-    .publication .stanford-publications-related .su-card__contents h2>a:not(.su-link--external):after {
+    .publication .peking_university-publications-related .su-card__contents h2>a:not(.su-link--external):after {
         background-color:#006cb8;
         content: "";
         display: inline-block;
@@ -1482,39 +1482,39 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
         width: 1.8rem
     }
 
-    .publication .stanford-publications-related .su-card__contents h2>a:not(.su-link--external):focus:after,.publication .stanford-publications-related .su-card__contents h2>a:not(.su-link--external):hover:after {
-        background-color: #2e2d29
+    .publication .peking_university-publications-related .su-card__contents h2>a:not(.su-link--external):focus:after,.publication .peking_university-publications-related .su-card__contents h2>a:not(.su-link--external):hover:after {
+        background-color: #352e2a
     }
 }
 
-.publication .stanford-publications-related .su-card__contents h2>a:not(.su-link--external):after {
-    color: #2e2d29;
+.publication .peking_university-publications-related .su-card__contents h2>a:not(.su-link--external):after {
+    color: #352e2a;
     -webkit-transform: none;
     transform: none
 }
 
-.publication .stanford-publications-related .su-card__contents h2>a:not(.su-link--external):focus,.publication .stanford-publications-related .su-card__contents h2>a:not(.su-link--external):hover {
-    border-bottom: 5px solid #2e2d29;
-    color: #2e2d29;
+.publication .peking_university-publications-related .su-card__contents h2>a:not(.su-link--external):focus,.publication .peking_university-publications-related .su-card__contents h2>a:not(.su-link--external):hover {
+    border-bottom: 5px solid #352e2a;
+    color: #352e2a;
     text-decoration: none
 }
 
-.publication .stanford-publications-related .su-card__contents h2>a:not(.su-link--external):focus:after,.publication .stanford-publications-related .su-card__contents h2>a:not(.su-link--external):hover:after {
+.publication .peking_university-publications-related .su-card__contents h2>a:not(.su-link--external):focus:after,.publication .peking_university-publications-related .su-card__contents h2>a:not(.su-link--external):hover:after {
     -webkit-transform: none;
     transform: none
 }
 
-.publication .stanford-publications-related .su-card__contents h2>a:not(.su-link--external):after {
-    background-color: #2e2d29
+.publication .peking_university-publications-related .su-card__contents h2>a:not(.su-link--external):after {
+    background-color: #352e2a
 }
 
-.publication .stanford-publications-related .su-card__contents h2>a.su-link--external {
+.publication .peking_university-publications-related .su-card__contents h2>a.su-link--external {
     border-bottom: 3px solid #00ece9;
     text-decoration: none
 }
 
 @supports ((-webkit-mask-repeat: no-repeat) or (mask-repeat:no-repeat)) {
-    .publication .stanford-publications-related .su-card__contents h2>a.su-link--external:after {
+    .publication .peking_university-publications-related .su-card__contents h2>a.su-link--external:after {
         content:"";
         display: inline-block;
         height: 1.3rem;
@@ -1525,11 +1525,11 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
         width: 1.3rem
     }
 
-    .publication .stanford-publications-related .su-card__contents h2>a.su-link--external:focus:after,.publication .stanford-publications-related .su-card__contents h2>a.su-link--external:hover:after {
-        background-color: #2e2d29
+    .publication .peking_university-publications-related .su-card__contents h2>a.su-link--external:focus:after,.publication .peking_university-publications-related .su-card__contents h2>a.su-link--external:hover:after {
+        background-color: #352e2a
     }
 
-    .publication .stanford-publications-related .su-card__contents h2>a.su-link--external:after {
+    .publication .peking_university-publications-related .su-card__contents h2>a.su-link--external:after {
         background-color: #006cb8;
         margin-left: .4em;
         margin-right: .3em;
@@ -1539,58 +1539,58 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
         transition: transform .2s ease-in-out,mask-image .2s ease-in-out,-webkit-transform .2s ease-in-out,-webkit-mask-image .2s ease-in-out
     }
 
-    .publication .stanford-publications-related .su-card__contents h2>a.su-link--external:focus:after,.publication .stanford-publications-related .su-card__contents h2>a.su-link--external:hover:after {
+    .publication .peking_university-publications-related .su-card__contents h2>a.su-link--external:focus:after,.publication .peking_university-publications-related .su-card__contents h2>a.su-link--external:hover:after {
         -webkit-transform: translate3d(.15em,-.15em,0);
         transform: translate3d(.15em,-.15em,0)
     }
 }
 
-.publication .stanford-publications-related .su-card__contents h2>a.su-link--external:after {
-    background-color: #2e2d29
+.publication .peking_university-publications-related .su-card__contents h2>a.su-link--external:after {
+    background-color: #352e2a
 }
 
-.publication .stanford-publications-related .su-card__contents h2>a.su-link--external:focus,.publication .stanford-publications-related .su-card__contents h2>a.su-link--external:hover {
-    border-bottom: 5px solid #2e2d29;
-    color: #2e2d29;
+.publication .peking_university-publications-related .su-card__contents h2>a.su-link--external:focus,.publication .peking_university-publications-related .su-card__contents h2>a.su-link--external:hover {
+    border-bottom: 5px solid #352e2a;
+    color: #352e2a;
     text-decoration: none
 }
 
-.publication .stanford-publications-related .su-card__contents h2>a.su-link--external:focus:after,.publication .stanford-publications-related .su-card__contents h2>a.su-link--external:hover:after {
+.publication .peking_university-publications-related .su-card__contents h2>a.su-link--external:focus:after,.publication .peking_university-publications-related .su-card__contents h2>a.su-link--external:hover:after {
     -webkit-transform: none;
     transform: none
 }
 
-.stanford-publications.view a:not([class*=button]) {
+.peking_university-publications.view a:not([class*=button]) {
     -webkit-animation: none;
     animation: none;
     border-bottom: 3px solid #00ece9;
-    color: #2e2d29;
+    color: #352e2a;
     display: inline;
     font-weight: 900;
     margin: 0;
     text-decoration: none
 }
 
-.stanford-publications.view a:not([class*=button]):focus,.stanford-publications.view a:not([class*=button]):hover {
-    border-bottom: 5px solid #2e2d29;
+.peking_university-publications.view a:not([class*=button]):focus,.peking_university-publications.view a:not([class*=button]):hover {
+    border-bottom: 5px solid #352e2a;
     text-decoration: none
 }
 
-.stanford-publications.view a:not([class*=button]):focus:after,.stanford-publications.view a:not([class*=button]):hover:after {
+.peking_university-publications.view a:not([class*=button]):focus:after,.peking_university-publications.view a:not([class*=button]):hover:after {
     -webkit-transform: none;
     transform: none
 }
 
-.stanford-publications.view a:not([class*=button]):after {
-    background-color: #2e2d29
+.peking_university-publications.view a:not([class*=button]):after {
+    background-color: #352e2a
 }
 
-.stanford-publications.view a:not([class*=button]).su-link--external {
+.peking_university-publications.view a:not([class*=button]).su-link--external {
     text-decoration: none
 }
 
 @supports ((-webkit-mask-repeat: no-repeat) or (mask-repeat:no-repeat)) {
-    .stanford-publications.view a:not([class*=button]).su-link--external:after {
+    .peking_university-publications.view a:not([class*=button]).su-link--external:after {
         content:"";
         display: inline-block;
         height: 1.3rem;
@@ -1601,36 +1601,36 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
         width: 1.3rem
     }
 
-    .stanford-publications.view a:not([class*=button]).su-link--external:focus:after,.stanford-publications.view a:not([class*=button]).su-link--external:hover:after {
-        background-color: #2e2d29
+    .peking_university-publications.view a:not([class*=button]).su-link--external:focus:after,.peking_university-publications.view a:not([class*=button]).su-link--external:hover:after {
+        background-color: #352e2a
     }
 
-    .stanford-publications.view a:not([class*=button]).su-link--external:after {
+    .peking_university-publications.view a:not([class*=button]).su-link--external:after {
         background-color: #006cb8;
         margin-left: .4em;
         margin-right: .3em
     }
 }
 
-.stanford-publications.view a:not([class*=button]).su-link--external:after {
-    background-color: #2e2d29
+.peking_university-publications.view a:not([class*=button]).su-link--external:after {
+    background-color: #352e2a
 }
 
-.stanford-publications.view>.more-link a {
+.peking_university-publications.view>.more-link a {
     background-color: #00ece9;
     border-bottom: 0;
     color: #000
 }
 
-.stanford-publications.view>.more-link a:active,.stanford-publications.view>.more-link a:focus,.stanford-publications.view>.more-link a:hover {
-    background-color: #2e2d29;
+.peking_university-publications.view>.more-link a:active,.peking_university-publications.view>.more-link a:focus,.peking_university-publications.view>.more-link a:hover {
+    background-color: #352e2a;
     border-bottom: 0;
     color: #fff;
     text-decoration: none
 }
 
-.stanford-publications.view .js-pager__items .pager__item .button {
-    background-color: #b1040e;
+.peking_university-publications.view .js-pager__items .pager__item .button {
+    background-color: #6E0507;
     background-color: #00ece9;
     border: 1px solid #c6c6c6;
     -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.13),0 3px 6px rgba(0,0,0,.1);
@@ -1640,27 +1640,27 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
     padding: 1rem 2rem 1.15rem
 }
 
-.stanford-publications.view .js-pager__items .pager__item .button:after,.stanford-publications.view .js-pager__items .pager__item .button:before {
+.peking_university-publications.view .js-pager__items .pager__item .button:after,.peking_university-publications.view .js-pager__items .pager__item .button:before {
     background-color: #fff;
-    color: #b1040e
+    color: #6E0507
 }
 
-.stanford-publications.view .js-pager__items .pager__item .button:focus,.stanford-publications.view .js-pager__items .pager__item .button:hover {
-    background-color: #2e2d29;
+.peking_university-publications.view .js-pager__items .pager__item .button:focus,.peking_university-publications.view .js-pager__items .pager__item .button:hover {
+    background-color: #352e2a;
     color: #fff
 }
 
-.stanford-publications.view .js-pager__items .pager__item .button:focus:after,.stanford-publications.view .js-pager__items .pager__item .button:focus:before,.stanford-publications.view .js-pager__items .pager__item .button:hover:after,.stanford-publications.view .js-pager__items .pager__item .button:hover:before {
+.peking_university-publications.view .js-pager__items .pager__item .button:focus:after,.peking_university-publications.view .js-pager__items .pager__item .button:focus:before,.peking_university-publications.view .js-pager__items .pager__item .button:hover:after,.peking_university-publications.view .js-pager__items .pager__item .button:hover:before {
     background-color: #fff
 }
 
-.stanford-publications.view .js-pager__items .pager__item .button:focus {
+.peking_university-publications.view .js-pager__items .pager__item .button:focus {
     -webkit-box-shadow: 0 0 3px #53565a,0 0 7px #53565a;
     box-shadow: 0 0 3px #53565a,0 0 7px #53565a
 }
 
-.stanford-publications.view .js-pager__items .pager__item .button:hover {
-    background-color: #2e2d29;
+.peking_university-publications.view .js-pager__items .pager__item .button:hover {
+    background-color: #352e2a;
     color: #fff
 }
 
@@ -1720,23 +1720,23 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
     }
 }
 
-.block-soe-basic-config-pages-stanford-super-footer {
+.block-soe-basic-config-pages-peking_university-super-footer {
     border-bottom: 1px solid #c0c0bf
 }
 
-.block-soe-basic-config-pages-stanford-super-footer .flex-container {
+.block-soe-basic-config-pages-peking_university-super-footer .flex-container {
     -webkit-box-align: baseline;
     -ms-flex-align: baseline;
     align-items: baseline
 }
 
-.block-soe-basic-config-pages-stanford-super-footer .su-super-footer__link a {
+.block-soe-basic-config-pages-peking_university-super-footer .su-super-footer__link a {
     border: 0;
     color: #000
 }
 
 @supports ((-webkit-mask-repeat: no-repeat) or (mask-repeat:no-repeat)) {
-    .block-soe-basic-config-pages-stanford-super-footer .su-super-footer__link a:after {
+    .block-soe-basic-config-pages-peking_university-super-footer .su-super-footer__link a:after {
         background-color:#00ece9;
         content: "";
         display: inline-block;
@@ -1751,26 +1751,26 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
     }
 }
 
-.block-soe-basic-config-pages-stanford-super-footer .su-super-footer__link a:focus,.block-soe-basic-config-pages-stanford-super-footer .su-super-footer__link a:hover {
+.block-soe-basic-config-pages-peking_university-super-footer .su-super-footer__link a:focus,.block-soe-basic-config-pages-peking_university-super-footer .su-super-footer__link a:hover {
     color: #fff
 }
 
-.block-soe-basic-config-pages-stanford-super-footer .su-super-footer__link .su-super-footer__intranet a:after {
+.block-soe-basic-config-pages-peking_university-super-footer .su-super-footer__link .su-super-footer__intranet a:after {
     background-color: #000
 }
 
-.ptype-stanford-entity .su-entity-item a:hover {
+.ptype-peking_university-entity .su-entity-item a:hover {
     text-decoration: none
 }
 
-.ptype-stanford-entity .ds-entity--stanford-person a,.ptype-stanford-entity .stanford-event-series a {
+.ptype-peking_university-entity .ds-entity--peking_university-person a,.ptype-peking_university-entity .peking_university-event-series a {
     border-bottom: 3px solid #00ece9;
-    color: #2e2d29;
+    color: #352e2a;
     text-decoration: none
 }
 
 @supports ((-webkit-mask-repeat: no-repeat) or (mask-repeat:no-repeat)) {
-    .ptype-stanford-entity .ds-entity--stanford-person a:after,.ptype-stanford-entity .stanford-event-series a:after {
+    .ptype-peking_university-entity .ds-entity--peking_university-person a:after,.ptype-peking_university-entity .peking_university-event-series a:after {
         background-color:#006cb8;
         content: "";
         display: inline-block;
@@ -1785,17 +1785,17 @@ div[class^=stanford-people-grid] .js-pager__items .pager__item .button:hover {
         width: 1.8rem
     }
 
-    .ptype-stanford-entity .ds-entity--stanford-person a:focus:after,.ptype-stanford-entity .ds-entity--stanford-person a:hover:after,.ptype-stanford-entity .stanford-event-series a:focus:after,.ptype-stanford-entity .stanford-event-series a:hover:after {
-        background-color: #2e2d29
+    .ptype-peking_university-entity .ds-entity--peking_university-person a:focus:after,.ptype-peking_university-entity .ds-entity--peking_university-person a:hover:after,.ptype-peking_university-entity .peking_university-event-series a:focus:after,.ptype-peking_university-entity .peking_university-event-series a:hover:after {
+        background-color: #352e2a
     }
 }
 
-.ptype-stanford-entity .ds-entity--stanford-person a:hover,.ptype-stanford-entity .stanford-event-series a:hover {
-    border-bottom: 5px solid #2e2d29;
-    color: #2e2d29;
+.ptype-peking_university-entity .ds-entity--peking_university-person a:hover,.ptype-peking_university-entity .peking_university-event-series a:hover {
+    border-bottom: 5px solid #352e2a;
+    color: #352e2a;
     text-decoration: none
 }
 
-.ptype-stanford-entity .ds-entity--stanford-person a:after,.ptype-stanford-entity .stanford-event-series a:after {
-    background-color: #2e2d29
+.ptype-peking_university-entity .ds-entity--peking_university-person a:after,.ptype-peking_university-entity .peking_university-event-series a:after {
+    background-color: #352e2a
 }

@@ -1441,15 +1441,15 @@ a.su-link--external.su-button--big:after {
 }
 
 a.su-link--external.su-button--secondary:after {
-    background-color: #b1040e
+    background-color: #6E0507
 }
 
 a.su-link--external.su-button--secondary:active:after,a.su-link--external.su-button--secondary:focus:after,a.su-link--external.su-button--secondary:hover:after {
-    background-color: #2e2d29
+    background-color: #352e2a
 }
 
 a.su-link--external.su-secondary-nav__link:active:after,a.su-link--external.su-secondary-nav__link:after,a.su-link--external.su-secondary-nav__link:focus:after,a.su-link--external.su-secondary-nav__link:hover:after {
-    background-color: #b1040e
+    background-color: #6E0507
 }
 
 a.mailto svg {
@@ -1471,13 +1471,13 @@ a.mailto svg path {
 }
 
 a.mailto svg:active,a.mailto svg:focus,a.mailto svg:hover {
-    fill: #2e2d29;
+    fill: #352e2a;
     -webkit-transform: translateX(.2em);
     transform: translateX(.2em)
 }
 
 a.mailto svg:active path,a.mailto svg:focus path,a.mailto svg:hover path {
-    stroke: #2e2d29
+    stroke: #352e2a
 }
 
 a.mailto.su-button svg,a.mailto.su-button svg:active,a.mailto.su-button svg:focus,a.mailto.su-button svg:hover,a.mailto.su-button--big svg,a.mailto.su-button--big svg:active,a.mailto.su-button--big svg:focus,a.mailto.su-button--big svg:hover {
@@ -1489,19 +1489,19 @@ a.mailto.su-button svg path,a.mailto.su-button svg:active path,a.mailto.su-butto
 }
 
 a.mailto.su-button--secondary svg {
-    fill: #b1040e
+    fill: #6E0507
 }
 
 a.mailto.su-button--secondary svg:active,a.mailto.su-button--secondary svg:focus,a.mailto.su-button--secondary svg:hover {
-    fill: #2e2d29
+    fill: #352e2a
 }
 
 a.mailto.su-button--secondary svg:active path,a.mailto.su-button--secondary svg:focus path,a.mailto.su-button--secondary svg:hover path {
-    stroke: #2e2d29
+    stroke: #352e2a
 }
 
 a.mailto.su-button--secondary svg path {
-    stroke: #b1040e
+    stroke: #6E0507
 }
 
 a.mailto.su-link--action {
@@ -1519,28 +1519,28 @@ a.mailto.su-link--action:after {
 }
 
 .su-local-footer__action-links a.su-link--external:active,.su-local-footer__action-links a.su-link--external:focus,.su-local-footer__action-links a.su-link--external:hover,.su-local-footer__action-links a:active,.su-local-footer__action-links a:focus,.su-local-footer__action-links a:hover,.su-secondary-nav a.su-link--external:active,.su-secondary-nav a.su-link--external:focus,.su-secondary-nav a.su-link--external:hover,.su-secondary-nav a:active,.su-secondary-nav a:focus,.su-secondary-nav a:hover,nav[aria-label^=footer] a.su-link--external:active,nav[aria-label^=footer] a.su-link--external:focus,nav[aria-label^=footer] a.su-link--external:hover,nav[aria-label^=footer] a:active,nav[aria-label^=footer] a:focus,nav[aria-label^=footer] a:hover {
-    color: #2e2d29;
+    color: #352e2a;
     text-decoration: underline
 }
 
 .su-secondary-nav--light a.su-secondary-nav__link:active:after,.su-secondary-nav--light a.su-secondary-nav__link:active:before,.su-secondary-nav--light a.su-secondary-nav__link:hover:after,.su-secondary-nav--light a.su-secondary-nav__link:hover:before {
-    background-color: #2e2d29
+    background-color: #352e2a
 }
 
 @media only screen and (min-width: 0) {
-    .stanford-person-terms-term-link {
+    .peking_university-person-terms-term-link {
         margin-bottom:4rem
     }
 }
 
 @media only screen and (min-width: 768px) {
-    .stanford-person-terms-term-link {
+    .peking_university-person-terms-term-link {
         margin-bottom:4.5rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .stanford-person-terms-term-link {
+    .peking_university-person-terms-term-link {
         margin-bottom:4.75rem
     }
 }
@@ -1551,7 +1551,7 @@ h4.field-content {
 
 h4.field-content>a {
     word-wrap: break-word;
-    color: #b1040e;
+    color: #6E0507;
     font-size: 1em;
     font-weight: 600;
     text-decoration: none;
@@ -1559,7 +1559,7 @@ h4.field-content>a {
 }
 
 h4.field-content>a:focus,h4.field-content>a:hover {
-    color: #2e2d29;
+    color: #352e2a;
     text-decoration: underline
 }
 
@@ -1680,7 +1680,7 @@ h4.field-content>a:focus,h4.field-content>a:hover {
 }
 
 .su-card .su-card__contents>h2>a:focus,.su-card .su-card__contents>h2>a:hover {
-    color: #b1040e;
+    color: #6E0507;
     text-decoration: underline
 }
 
@@ -2019,7 +2019,7 @@ h4.field-content>a:focus,h4.field-content>a:hover {
     border: 1px solid #e3e3e3;
     -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.13),0 3px 6px rgba(0,0,0,.1);
     box-shadow: 0 3px 6px rgba(0,0,0,.13),0 3px 6px rgba(0,0,0,.1);
-    color: #2e2d29;
+    color: #352e2a;
     display: block;
     text-decoration: none
 }
@@ -2035,7 +2035,7 @@ h4.field-content>a:focus,h4.field-content>a:hover {
 }
 
 .su-card--link>a:focus h2,.su-card--link>a:hover h2 {
-    color: #b1040e;
+    color: #6E0507;
     text-decoration: underline;
     -webkit-transition: color .3s ease-out;
     transition: color .3s ease-out
@@ -2297,7 +2297,7 @@ h4.field-content>a:focus,h4.field-content>a:hover {
 }
 
 .su-hero__media {
-    background: #2e2d29;
+    background: #352e2a;
     height: 100%;
     overflow: hidden;
     width: 100%
@@ -3043,99 +3043,99 @@ div.tree-child-horizontal {
     text-decoration: underline
 }
 
-.stanford-page.su-page-description {
+.peking_university-page.su-page-description {
     margin-bottom: 46px
 }
 
 @media only screen and (min-width: 768px) {
-    .stanford-page.su-page-description {
+    .peking_university-page.su-page-description {
         font-size:2.1rem;
         line-height: 1.7
     }
 }
 
 @media (min-width: 992px) {
-    .stanford-page.su-page-description {
+    .peking_university-page.su-page-description {
         max-width:85ch
     }
 }
 
 @media only screen and (max-width: 991px) and (min-width:0) {
-    .ds-entity--stanford-page .su-card {
+    .ds-entity--peking_university-page .su-card {
         margin-bottom:3.2rem
     }
 }
 
 @media only screen and (max-width: 991px) and (min-width:768px) {
-    .ds-entity--stanford-page .su-card {
+    .ds-entity--peking_university-page .su-card {
         margin-bottom:3.6rem
     }
 }
 
 @media only screen and (max-width: 991px) and (min-width:1500px) {
-    .ds-entity--stanford-page .su-card {
+    .ds-entity--peking_university-page .su-card {
         margin-bottom:3.8rem
     }
 }
 
-.ds-entity--stanford-page .su-card .su-card__contents {
+.ds-entity--peking_university-page .su-card .su-card__contents {
     padding: 3rem
 }
 
-.ds-entity--stanford-page .su-card .su-card__contents h2 {
+.ds-entity--peking_university-page .su-card .su-card__contents h2 {
     font-size: 1.5625em;
     letter-spacing: -.012em
 }
 
 @media only screen and (max-width: 767px) and (min-width:0) {
-    .ds-entity--stanford-page .su-card .su-card__contents h2 {
+    .ds-entity--peking_university-page .su-card .su-card__contents h2 {
         margin-top:2.31rem
     }
 }
 
 @media only screen and (max-width: 767px) and (min-width:768px) {
-    .ds-entity--stanford-page .su-card .su-card__contents h2 {
+    .ds-entity--peking_university-page .su-card .su-card__contents h2 {
         margin-top:2.6rem
     }
 }
 
 @media only screen and (max-width: 767px) and (min-width:1500px) {
-    .ds-entity--stanford-page .su-card .su-card__contents h2 {
+    .ds-entity--peking_university-page .su-card .su-card__contents h2 {
         margin-top:2.74rem
     }
 }
 
-.ds-entity--stanford-page .su-card .su-card__contents h3 {
+.ds-entity--peking_university-page .su-card .su-card__contents h3 {
     font-size: 1.4em
 }
 
 @media only screen and (max-width: 767px) and (min-width:0) {
-    .ds-entity--stanford-page .su-card .su-card__contents h3 {
+    .ds-entity--peking_university-page .su-card .su-card__contents h3 {
         margin-top:2.31rem
     }
 }
 
 @media only screen and (max-width: 767px) and (min-width:768px) {
-    .ds-entity--stanford-page .su-card .su-card__contents h3 {
+    .ds-entity--peking_university-page .su-card .su-card__contents h3 {
         margin-top:2.6rem
     }
 }
 
 @media only screen and (max-width: 767px) and (min-width:1500px) {
-    .ds-entity--stanford-page .su-card .su-card__contents h3 {
+    .ds-entity--peking_university-page .su-card .su-card__contents h3 {
         margin-top:2.74rem
     }
 }
 
-.ds-entity--stanford-page .su-card .su-card__contents a {
-    color: #2e2d29;
+.ds-entity--peking_university-page .su-card .su-card__contents a {
+    color: #352e2a;
     display: inline-block;
     font-weight: 700;
     text-decoration: none
 }
 
 @supports ((-webkit-mask-repeat: no-repeat) or (mask-repeat:no-repeat)) {
-    .ds-entity--stanford-page .su-card .su-card__contents a:after {
+    .ds-entity--peking_university-page .su-card .su-card__contents a:after {
         content:"";
         display: inline-block;
         height: .65em;
@@ -3146,11 +3146,11 @@ div.tree-child-horizontal {
         width: .65em
     }
 
-    .ds-entity--stanford-page .su-card .su-card__contents a:focus:after,.ds-entity--stanford-page .su-card .su-card__contents a:hover:after {
-        background-color: #2e2d29
+    .ds-entity--peking_university-page .su-card .su-card__contents a:focus:after,.ds-entity--peking_university-page .su-card .su-card__contents a:hover:after {
+        background-color: #352e2a
     }
 
-    .ds-entity--stanford-page .su-card .su-card__contents a:after {
+    .ds-entity--peking_university-page .su-card .su-card__contents a:after {
         background-color: #006cb8;
         margin-left: .4em;
         margin-right: .3em;
@@ -3160,51 +3160,51 @@ div.tree-child-horizontal {
         transition: transform .2s ease-in-out,mask-image .2s ease-in-out,-webkit-transform .2s ease-in-out,-webkit-mask-image .2s ease-in-out
     }
 
-    .ds-entity--stanford-page .su-card .su-card__contents a:focus:after,.ds-entity--stanford-page .su-card .su-card__contents a:hover:after {
+    .ds-entity--peking_university-page .su-card .su-card__contents a:focus:after,.ds-entity--peking_university-page .su-card .su-card__contents a:hover:after {
         -webkit-transform: translateX(.2em);
         transform: translateX(.2em)
     }
 }
 
 @media only screen and (min-width: 0) {
-    .ds-entity--stanford-page .su-card .su-card__contents a {
+    .ds-entity--peking_university-page .su-card .su-card__contents a {
         margin-bottom:1.6rem
     }
 }
 
 @media only screen and (min-width: 768px) {
-    .ds-entity--stanford-page .su-card .su-card__contents a {
+    .ds-entity--peking_university-page .su-card .su-card__contents a {
         margin-bottom:1.8rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .ds-entity--stanford-page .su-card .su-card__contents a {
+    .ds-entity--peking_university-page .su-card .su-card__contents a {
         margin-bottom:1.9rem
     }
 }
 
-.ds-entity--stanford-page .su-card .su-card__contents a:hover {
-    color: #2e2d29;
+.ds-entity--peking_university-page .su-card .su-card__contents a:hover {
+    color: #352e2a;
     text-decoration: underline
 }
 
-.ds-entity--stanford-page .su-card .su-card__contents a:focus {
+.ds-entity--peking_university-page .su-card .su-card__contents a:focus {
     outline: none
 }
 
-.ds-entity--stanford-page .su-card .su-card__contents a:after {
-    background-color: #b1040e;
+.ds-entity--peking_university-page .su-card .su-card__contents a:after {
+    background-color: #6E0507;
     height: 1.2rem;
     width: 1.2rem
 }
 
-.ds-entity--stanford-page .su-card .su-card__contents a:hover:after {
-    background-color: #b1040e
+.ds-entity--peking_university-page .su-card .su-card__contents a:hover:after {
+    background-color: #6E0507
 }
 
 @media (max-width: 767px) {
-    .ds-entity--stanford-page .su-card img {
+    .ds-entity--peking_university-page .su-card img {
         display:-webkit-box;
         display: -ms-flexbox;
         display: flex
@@ -3220,7 +3220,7 @@ div.tree-child-horizontal {
 }
 
 .js-pager__items .pager__item .button {
-    background-color: #b1040e;
+    background-color: #6E0507;
     color: #fff;
     font-size: 2.5rem;
     padding: 1.3rem 2.8rem 1.5rem
@@ -3228,11 +3228,11 @@ div.tree-child-horizontal {
 
 .js-pager__items .pager__item .button:after,.js-pager__items .pager__item .button:before {
     background-color: #fff;
-    color: #b1040e
+    color: #6E0507
 }
 
 .js-pager__items .pager__item .button:focus,.js-pager__items .pager__item .button:hover {
-    background-color: #2e2d29;
+    background-color: #352e2a;
     color: #fff
 }
 
@@ -3417,7 +3417,7 @@ div.tree-child-horizontal {
     }
 }
 
-.react-paragraphs-row .ptype-stanford-media-caption .su-media .su-media__caption {
+.react-paragraphs-row .ptype-peking_university-media-caption .su-media .su-media__caption {
     max-width: 100%
 }
 
@@ -3445,66 +3445,66 @@ div.tree-child-horizontal {
         max-width: 100%
     }
 
-    .react-paragraphs-row .flex-12-of-12 .flex-container .ds-entity--stanford-event {
+    .react-paragraphs-row .flex-12-of-12 .flex-container .ds-entity--peking_university-event {
         padding-bottom: 3.2rem
     }
 }
 
 @media only screen and (max-width: 991px) and (min-width:768px) {
-    .react-paragraphs-row .flex-12-of-12 .flex-container .ds-entity--stanford-event {
+    .react-paragraphs-row .flex-12-of-12 .flex-container .ds-entity--peking_university-event {
         padding-bottom:4.5rem
     }
 }
 
 @media only screen and (max-width: 991px) and (min-width:1500px) {
-    .react-paragraphs-row .flex-12-of-12 .flex-container .ds-entity--stanford-event {
+    .react-paragraphs-row .flex-12-of-12 .flex-container .ds-entity--peking_university-event {
         padding-bottom:4.8rem
     }
 }
 
-.su-page-components .paragraph--type--stanford-card,.su-page-components .paragraph--type--stanford-cta-list,.su-page-components .paragraph--type--stanford-entity,.su-page-components .paragraph--type--stanford-gallery,.su-page-components .paragraph--type--stanford-lists,.su-page-components .paragraph--type--stanford-media-caption,.su-page-components .paragraph--type--stanford-stories,.su-page-components .paragraph--type--stanford-wysiwyg,.su-page-components .ptype-stanford-card,.su-page-components .ptype-stanford-cta-list,.su-page-components .ptype-stanford-entity,.su-page-components .ptype-stanford-gallery,.su-page-components .ptype-stanford-image-cta,.su-page-components .ptype-stanford-lists,.su-page-components .ptype-stanford-media-caption,.su-page-components .ptype-stanford-stories,.su-page-components .ptype-stanford-wysiwyg {
+.su-page-components .paragraph--type--peking_university-card,.su-page-components .paragraph--type--peking_university-cta-list,.su-page-components .paragraph--type--peking_university-entity,.su-page-components .paragraph--type--peking_university-gallery,.su-page-components .paragraph--type--peking_university-lists,.su-page-components .paragraph--type--peking_university-media-caption,.su-page-components .paragraph--type--peking_university-stories,.su-page-components .paragraph--type--peking_university-wysiwyg,.su-page-components .ptype-peking_university-card,.su-page-components .ptype-peking_university-cta-list,.su-page-components .ptype-peking_university-entity,.su-page-components .ptype-peking_university-gallery,.su-page-components .ptype-peking_university-image-cta,.su-page-components .ptype-peking_university-lists,.su-page-components .ptype-peking_university-media-caption,.su-page-components .ptype-peking_university-stories,.su-page-components .ptype-peking_university-wysiwyg {
     margin: 0 auto;
     max-width: calc(100vw - 40px);
     width: 100%
 }
 
 @media only screen and (min-width: 576px) {
-    .su-page-components .paragraph--type--stanford-card,.su-page-components .paragraph--type--stanford-cta-list,.su-page-components .paragraph--type--stanford-entity,.su-page-components .paragraph--type--stanford-gallery,.su-page-components .paragraph--type--stanford-lists,.su-page-components .paragraph--type--stanford-media-caption,.su-page-components .paragraph--type--stanford-stories,.su-page-components .paragraph--type--stanford-wysiwyg,.su-page-components .ptype-stanford-card,.su-page-components .ptype-stanford-cta-list,.su-page-components .ptype-stanford-entity,.su-page-components .ptype-stanford-gallery,.su-page-components .ptype-stanford-image-cta,.su-page-components .ptype-stanford-lists,.su-page-components .ptype-stanford-media-caption,.su-page-components .ptype-stanford-stories,.su-page-components .ptype-stanford-wysiwyg {
+    .su-page-components .paragraph--type--peking_university-card,.su-page-components .paragraph--type--peking_university-cta-list,.su-page-components .paragraph--type--peking_university-entity,.su-page-components .paragraph--type--peking_university-gallery,.su-page-components .paragraph--type--peking_university-lists,.su-page-components .paragraph--type--peking_university-media-caption,.su-page-components .paragraph--type--peking_university-stories,.su-page-components .paragraph--type--peking_university-wysiwyg,.su-page-components .ptype-peking_university-card,.su-page-components .ptype-peking_university-cta-list,.su-page-components .ptype-peking_university-entity,.su-page-components .ptype-peking_university-gallery,.su-page-components .ptype-peking_university-image-cta,.su-page-components .ptype-peking_university-lists,.su-page-components .ptype-peking_university-media-caption,.su-page-components .ptype-peking_university-stories,.su-page-components .ptype-peking_university-wysiwyg {
         max-width:calc(100vw - 60px)
     }
 }
 
 @media only screen and (min-width: 768px) {
-    .su-page-components .paragraph--type--stanford-card,.su-page-components .paragraph--type--stanford-cta-list,.su-page-components .paragraph--type--stanford-entity,.su-page-components .paragraph--type--stanford-gallery,.su-page-components .paragraph--type--stanford-lists,.su-page-components .paragraph--type--stanford-media-caption,.su-page-components .paragraph--type--stanford-stories,.su-page-components .paragraph--type--stanford-wysiwyg,.su-page-components .ptype-stanford-card,.su-page-components .ptype-stanford-cta-list,.su-page-components .ptype-stanford-entity,.su-page-components .ptype-stanford-gallery,.su-page-components .ptype-stanford-image-cta,.su-page-components .ptype-stanford-lists,.su-page-components .ptype-stanford-media-caption,.su-page-components .ptype-stanford-stories,.su-page-components .ptype-stanford-wysiwyg {
+    .su-page-components .paragraph--type--peking_university-card,.su-page-components .paragraph--type--peking_university-cta-list,.su-page-components .paragraph--type--peking_university-entity,.su-page-components .paragraph--type--peking_university-gallery,.su-page-components .paragraph--type--peking_university-lists,.su-page-components .paragraph--type--peking_university-media-caption,.su-page-components .paragraph--type--peking_university-stories,.su-page-components .paragraph--type--peking_university-wysiwyg,.su-page-components .ptype-peking_university-card,.su-page-components .ptype-peking_university-cta-list,.su-page-components .ptype-peking_university-entity,.su-page-components .ptype-peking_university-gallery,.su-page-components .ptype-peking_university-image-cta,.su-page-components .ptype-peking_university-lists,.su-page-components .ptype-peking_university-media-caption,.su-page-components .ptype-peking_university-stories,.su-page-components .ptype-peking_university-wysiwyg {
         max-width:calc(100vw - 100px)
     }
 }
 
 @media only screen and (min-width: 992px) {
-    .su-page-components .paragraph--type--stanford-card,.su-page-components .paragraph--type--stanford-cta-list,.su-page-components .paragraph--type--stanford-entity,.su-page-components .paragraph--type--stanford-gallery,.su-page-components .paragraph--type--stanford-lists,.su-page-components .paragraph--type--stanford-media-caption,.su-page-components .paragraph--type--stanford-stories,.su-page-components .paragraph--type--stanford-wysiwyg,.su-page-components .ptype-stanford-card,.su-page-components .ptype-stanford-cta-list,.su-page-components .ptype-stanford-entity,.su-page-components .ptype-stanford-gallery,.su-page-components .ptype-stanford-image-cta,.su-page-components .ptype-stanford-lists,.su-page-components .ptype-stanford-media-caption,.su-page-components .ptype-stanford-stories,.su-page-components .ptype-stanford-wysiwyg {
+    .su-page-components .paragraph--type--peking_university-card,.su-page-components .paragraph--type--peking_university-cta-list,.su-page-components .paragraph--type--peking_university-entity,.su-page-components .paragraph--type--peking_university-gallery,.su-page-components .paragraph--type--peking_university-lists,.su-page-components .paragraph--type--peking_university-media-caption,.su-page-components .paragraph--type--peking_university-stories,.su-page-components .paragraph--type--peking_university-wysiwyg,.su-page-components .ptype-peking_university-card,.su-page-components .ptype-peking_university-cta-list,.su-page-components .ptype-peking_university-entity,.su-page-components .ptype-peking_university-gallery,.su-page-components .ptype-peking_university-image-cta,.su-page-components .ptype-peking_university-lists,.su-page-components .ptype-peking_university-media-caption,.su-page-components .ptype-peking_university-stories,.su-page-components .ptype-peking_university-wysiwyg {
         max-width:880px
     }
 }
 
 @media only screen and (min-width: 1200px) {
-    .su-page-components .paragraph--type--stanford-card,.su-page-components .paragraph--type--stanford-cta-list,.su-page-components .paragraph--type--stanford-entity,.su-page-components .paragraph--type--stanford-gallery,.su-page-components .paragraph--type--stanford-lists,.su-page-components .paragraph--type--stanford-media-caption,.su-page-components .paragraph--type--stanford-stories,.su-page-components .paragraph--type--stanford-wysiwyg,.su-page-components .ptype-stanford-card,.su-page-components .ptype-stanford-cta-list,.su-page-components .ptype-stanford-entity,.su-page-components .ptype-stanford-gallery,.su-page-components .ptype-stanford-image-cta,.su-page-components .ptype-stanford-lists,.su-page-components .ptype-stanford-media-caption,.su-page-components .ptype-stanford-stories,.su-page-components .ptype-stanford-wysiwyg {
+    .su-page-components .paragraph--type--peking_university-card,.su-page-components .paragraph--type--peking_university-cta-list,.su-page-components .paragraph--type--peking_university-entity,.su-page-components .paragraph--type--peking_university-gallery,.su-page-components .paragraph--type--peking_university-lists,.su-page-components .paragraph--type--peking_university-media-caption,.su-page-components .paragraph--type--peking_university-stories,.su-page-components .paragraph--type--peking_university-wysiwyg,.su-page-components .ptype-peking_university-card,.su-page-components .ptype-peking_university-cta-list,.su-page-components .ptype-peking_university-entity,.su-page-components .ptype-peking_university-gallery,.su-page-components .ptype-peking_university-image-cta,.su-page-components .ptype-peking_university-lists,.su-page-components .ptype-peking_university-media-caption,.su-page-components .ptype-peking_university-stories,.su-page-components .ptype-peking_university-wysiwyg {
         max-width:980px
     }
 }
 
-.su-page-components div[data-react-columns="12"].ptype-stanford-card,.su-page-components div[data-react-columns="12"].ptype-stanford-cta-list,.su-page-components div[data-react-columns="12"].ptype-stanford-entity,.su-page-components div[data-react-columns="12"].ptype-stanford-gallery,.su-page-components div[data-react-columns="12"].ptype-stanford-image-cta,.su-page-components div[data-react-columns="12"].ptype-stanford-lists,.su-page-components div[data-react-columns="12"].ptype-stanford-media-caption,.su-page-components div[data-react-columns="12"].ptype-stanford-stories,.su-page-components div[data-react-columns="12"].ptype-stanford-wysiwyg {
+.su-page-components div[data-react-columns="12"].ptype-peking_university-card,.su-page-components div[data-react-columns="12"].ptype-peking_university-cta-list,.su-page-components div[data-react-columns="12"].ptype-peking_university-entity,.su-page-components div[data-react-columns="12"].ptype-peking_university-gallery,.su-page-components div[data-react-columns="12"].ptype-peking_university-image-cta,.su-page-components div[data-react-columns="12"].ptype-peking_university-lists,.su-page-components div[data-react-columns="12"].ptype-peking_university-media-caption,.su-page-components div[data-react-columns="12"].ptype-peking_university-stories,.su-page-components div[data-react-columns="12"].ptype-peking_university-wysiwyg {
     max-width: 980px
 }
 
 @media only screen and (min-width: 992px) and (max-width:1199px) {
-    .su-page-components div[data-react-columns="12"].ptype-stanford-card,.su-page-components div[data-react-columns="12"].ptype-stanford-cta-list,.su-page-components div[data-react-columns="12"].ptype-stanford-entity,.su-page-components div[data-react-columns="12"].ptype-stanford-gallery,.su-page-components div[data-react-columns="12"].ptype-stanford-image-cta,.su-page-components div[data-react-columns="12"].ptype-stanford-lists,.su-page-components div[data-react-columns="12"].ptype-stanford-media-caption,.su-page-components div[data-react-columns="12"].ptype-stanford-stories,.su-page-components div[data-react-columns="12"].ptype-stanford-wysiwyg {
+    .su-page-components div[data-react-columns="12"].ptype-peking_university-card,.su-page-components div[data-react-columns="12"].ptype-peking_university-cta-list,.su-page-components div[data-react-columns="12"].ptype-peking_university-entity,.su-page-components div[data-react-columns="12"].ptype-peking_university-gallery,.su-page-components div[data-react-columns="12"].ptype-peking_university-image-cta,.su-page-components div[data-react-columns="12"].ptype-peking_university-lists,.su-page-components div[data-react-columns="12"].ptype-peking_university-media-caption,.su-page-components div[data-react-columns="12"].ptype-peking_university-stories,.su-page-components div[data-react-columns="12"].ptype-peking_university-wysiwyg {
         margin-left:auto;
         margin-right: auto;
         max-width: 880px
     }
 }
 
-.su-page-components div[data-react-columns="12"].ptype-stanford-card img {
+.su-page-components div[data-react-columns="12"].ptype-peking_university-card img {
     width: 100%
 }
 
@@ -3521,24 +3521,24 @@ div.tree-child-horizontal {
 }
 
 @media only screen and (min-width: 0) {
-    .node-stanford-page-su-page-banner {
+    .node-peking_university-page-su-page-banner {
         margin-bottom:5.12rem
     }
 }
 
 @media only screen and (min-width: 768px) {
-    .node-stanford-page-su-page-banner {
+    .node-peking_university-page-su-page-banner {
         margin-bottom:5.76rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .node-stanford-page-su-page-banner {
+    .node-peking_university-page-su-page-banner {
         margin-bottom:6.08rem
     }
 }
 
-.paragraph--type--stanford-gallery h2,.ptype-stanford-gallery h2 {
+.paragraph--type--peking_university-gallery h2,.ptype-peking_university-gallery h2 {
     margin: 0;
     text-align: center
 }
@@ -3553,11 +3553,11 @@ div.tree-child-horizontal {
     border-radius: 50%
 }
 
-.ds-entity--stanford-person {
+.ds-entity--peking_university-person {
     text-align: center
 }
 
-.ds-entity--stanford-person h3 {
+.ds-entity--peking_university-person h3 {
     font-size: 1.4em
 }
 
@@ -3580,54 +3580,54 @@ div.tree-child-horizontal {
 }
 
 .su-list-unstyled a {
-    color: #b1040e
+    color: #6E0507
 }
 
 .su-list-unstyled a:active,.su-list-unstyled a:focus,.su-list-unstyled a:hover {
-    color: #2e2d29;
+    color: #352e2a;
     text-decoration: underline
 }
 
-.paragraph--type--stanford-entity .su-entity-headline h2,.ptype-stanford-entity .su-entity-headline h2,.stanford-shared-tags .su-entity-headline h2 {
+.paragraph--type--peking_university-entity .su-entity-headline h2,.ptype-peking_university-entity .su-entity-headline h2,.peking_university-shared-tags .su-entity-headline h2 {
     margin: 0;
     text-align: center
 }
 
 @media only screen and (min-width: 0) {
-    .paragraph--type--stanford-entity .su-entity-item>div,.ptype-stanford-entity .su-entity-item>div,.stanford-shared-tags .su-entity-item>div {
+    .paragraph--type--peking_university-entity .su-entity-item>div,.ptype-peking_university-entity .su-entity-item>div,.peking_university-shared-tags .su-entity-item>div {
         margin-bottom:5.12rem
     }
 }
 
 @media only screen and (min-width: 768px) {
-    .paragraph--type--stanford-entity .su-entity-item>div,.ptype-stanford-entity .su-entity-item>div,.stanford-shared-tags .su-entity-item>div {
+    .paragraph--type--peking_university-entity .su-entity-item>div,.ptype-peking_university-entity .su-entity-item>div,.peking_university-shared-tags .su-entity-item>div {
         margin-bottom:5.76rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .paragraph--type--stanford-entity .su-entity-item>div,.ptype-stanford-entity .su-entity-item>div,.stanford-shared-tags .su-entity-item>div {
+    .paragraph--type--peking_university-entity .su-entity-item>div,.ptype-peking_university-entity .su-entity-item>div,.peking_university-shared-tags .su-entity-item>div {
         margin-bottom:6.08rem
     }
 }
 
-.paragraph--type--stanford-entity .su-entity-item a,.ptype-stanford-entity .su-entity-item a,.stanford-shared-tags .su-entity-item a {
-    color: #b1040e
+.paragraph--type--peking_university-entity .su-entity-item a,.ptype-peking_university-entity .su-entity-item a,.peking_university-shared-tags .su-entity-item a {
+    color: #6E0507
 }
 
-.paragraph--type--stanford-entity .su-entity-item a:active,.paragraph--type--stanford-entity .su-entity-item a:focus,.paragraph--type--stanford-entity .su-entity-item a:hover,.ptype-stanford-entity .su-entity-item a:active,.ptype-stanford-entity .su-entity-item a:focus,.ptype-stanford-entity .su-entity-item a:hover,.stanford-shared-tags .su-entity-item a:active,.stanford-shared-tags .su-entity-item a:focus,.stanford-shared-tags .su-entity-item a:hover {
-    color: #2e2d29;
+.paragraph--type--peking_university-entity .su-entity-item a:active,.paragraph--type--peking_university-entity .su-entity-item a:focus,.paragraph--type--peking_university-entity .su-entity-item a:hover,.ptype-peking_university-entity .su-entity-item a:active,.ptype-peking_university-entity .su-entity-item a:focus,.ptype-peking_university-entity .su-entity-item a:hover,.peking_university-shared-tags .su-entity-item a:active,.peking_university-shared-tags .su-entity-item a:focus,.peking_university-shared-tags .su-entity-item a:hover {
+    color: #352e2a;
     text-decoration: underline
 }
 
 @media only screen and (min-width: 576px) {
-    .layout--layout-paragraphs-one-column .paragraph--type--stanford-entity .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-card,.layout--layout-paragraphs-one-column .ptype-stanford-entity .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-card,.layout--layout-paragraphs-one-column .stanford-shared-tags .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-card,.paragraph--type--stanford-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-card,.ptype-stanford-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-card,.stanford-shared-tags[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-card {
+    .layout--layout-paragraphs-one-column .paragraph--type--peking_university-entity .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-card,.layout--layout-paragraphs-one-column .ptype-peking_university-entity .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-card,.layout--layout-paragraphs-one-column .peking_university-shared-tags .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-card,.paragraph--type--peking_university-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-card,.ptype-peking_university-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-card,.peking_university-shared-tags[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-card {
         display:-webkit-box;
         display: -ms-flexbox;
         display: flex
     }
 
-    .layout--layout-paragraphs-one-column .paragraph--type--stanford-entity .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-person-photo,.layout--layout-paragraphs-one-column .ptype-stanford-entity .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-person-photo,.layout--layout-paragraphs-one-column .stanford-shared-tags .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-person-photo,.paragraph--type--stanford-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-person-photo,.ptype-stanford-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-person-photo,.stanford-shared-tags[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-person-photo {
+    .layout--layout-paragraphs-one-column .paragraph--type--peking_university-entity .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-person-photo,.layout--layout-paragraphs-one-column .ptype-peking_university-entity .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-person-photo,.layout--layout-paragraphs-one-column .peking_university-shared-tags .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-person-photo,.paragraph--type--peking_university-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-person-photo,.ptype-peking_university-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-person-photo,.peking_university-shared-tags[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-person-photo {
         -webkit-box-flex: 1;
         -ms-flex: 1;
         flex: 1;
@@ -3635,7 +3635,7 @@ div.tree-child-horizontal {
         width: 25%
     }
 
-    .layout--layout-paragraphs-one-column .paragraph--type--stanford-entity .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-card__contents,.layout--layout-paragraphs-one-column .ptype-stanford-entity .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-card__contents,.layout--layout-paragraphs-one-column .stanford-shared-tags .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-card__contents,.paragraph--type--stanford-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-card__contents,.ptype-stanford-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-card__contents,.stanford-shared-tags[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--stanford-person .su-card__contents {
+    .layout--layout-paragraphs-one-column .paragraph--type--peking_university-entity .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-card__contents,.layout--layout-paragraphs-one-column .ptype-peking_university-entity .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-card__contents,.layout--layout-paragraphs-one-column .peking_university-shared-tags .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-card__contents,.paragraph--type--peking_university-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-card__contents,.ptype-peking_university-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-card__contents,.peking_university-shared-tags[data-react-columns="12"] .su-entity-item>div:first-child:last-child .ds-entity--peking_university-person .su-card__contents {
         -webkit-box-flex: 1;
         -ms-flex: 1;
         flex: 1;
@@ -3644,7 +3644,7 @@ div.tree-child-horizontal {
 }
 
 @media only screen and (min-width: 992px) {
-    .layout--layout-paragraphs-one-column .paragraph--type--stanford-entity .su-entity-item,.layout--layout-paragraphs-one-column .ptype-stanford-entity .su-entity-item,.layout--layout-paragraphs-one-column .stanford-shared-tags .su-entity-item,.paragraph--type--stanford-entity[data-react-columns="12"] .su-entity-item,.ptype-stanford-entity[data-react-columns="12"] .su-entity-item,.stanford-shared-tags[data-react-columns="12"] .su-entity-item {
+    .layout--layout-paragraphs-one-column .paragraph--type--peking_university-entity .su-entity-item,.layout--layout-paragraphs-one-column .ptype-peking_university-entity .su-entity-item,.layout--layout-paragraphs-one-column .peking_university-shared-tags .su-entity-item,.paragraph--type--peking_university-entity[data-react-columns="12"] .su-entity-item,.ptype-peking_university-entity[data-react-columns="12"] .su-entity-item,.peking_university-shared-tags[data-react-columns="12"] .su-entity-item {
         -webkit-box-pack:justify;
         -ms-flex-pack: justify;
         display: -webkit-box;
@@ -3655,39 +3655,39 @@ div.tree-child-horizontal {
         justify-content: space-between
     }
 
-    .layout--layout-paragraphs-one-column .paragraph--type--stanford-entity .su-entity-item>div,.layout--layout-paragraphs-one-column .ptype-stanford-entity .su-entity-item>div,.layout--layout-paragraphs-one-column .stanford-shared-tags .su-entity-item>div,.paragraph--type--stanford-entity[data-react-columns="12"] .su-entity-item>div,.ptype-stanford-entity[data-react-columns="12"] .su-entity-item>div,.stanford-shared-tags[data-react-columns="12"] .su-entity-item>div {
+    .layout--layout-paragraphs-one-column .paragraph--type--peking_university-entity .su-entity-item>div,.layout--layout-paragraphs-one-column .ptype-peking_university-entity .su-entity-item>div,.layout--layout-paragraphs-one-column .peking_university-shared-tags .su-entity-item>div,.paragraph--type--peking_university-entity[data-react-columns="12"] .su-entity-item>div,.ptype-peking_university-entity[data-react-columns="12"] .su-entity-item>div,.peking_university-shared-tags[data-react-columns="12"] .su-entity-item>div {
         margin: 0;
         width: calc(33% - 40px)
     }
 
-    .layout--layout-paragraphs-one-column .paragraph--type--stanford-entity .su-entity-item>div:first-child:last-child,.layout--layout-paragraphs-one-column .ptype-stanford-entity .su-entity-item>div:first-child:last-child,.layout--layout-paragraphs-one-column .stanford-shared-tags .su-entity-item>div:first-child:last-child,.paragraph--type--stanford-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child,.ptype-stanford-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child,.stanford-shared-tags[data-react-columns="12"] .su-entity-item>div:first-child:last-child {
+    .layout--layout-paragraphs-one-column .paragraph--type--peking_university-entity .su-entity-item>div:first-child:last-child,.layout--layout-paragraphs-one-column .ptype-peking_university-entity .su-entity-item>div:first-child:last-child,.layout--layout-paragraphs-one-column .peking_university-shared-tags .su-entity-item>div:first-child:last-child,.paragraph--type--peking_university-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child,.ptype-peking_university-entity[data-react-columns="12"] .su-entity-item>div:first-child:last-child,.peking_university-shared-tags[data-react-columns="12"] .su-entity-item>div:first-child:last-child {
         width: 100%
     }
 
-    .layout--layout-paragraphs-one-column .paragraph--type--stanford-entity .su-entity-item>div:first-child:nth-last-child(2),.layout--layout-paragraphs-one-column .paragraph--type--stanford-entity .su-entity-item>div:nth-child(2):last-child,.layout--layout-paragraphs-one-column .ptype-stanford-entity .su-entity-item>div:first-child:nth-last-child(2),.layout--layout-paragraphs-one-column .ptype-stanford-entity .su-entity-item>div:nth-child(2):last-child,.layout--layout-paragraphs-one-column .stanford-shared-tags .su-entity-item>div:first-child:nth-last-child(2),.layout--layout-paragraphs-one-column .stanford-shared-tags .su-entity-item>div:nth-child(2):last-child,.paragraph--type--stanford-entity[data-react-columns="12"] .su-entity-item>div:first-child:nth-last-child(2),.paragraph--type--stanford-entity[data-react-columns="12"] .su-entity-item>div:nth-child(2):last-child,.ptype-stanford-entity[data-react-columns="12"] .su-entity-item>div:first-child:nth-last-child(2),.ptype-stanford-entity[data-react-columns="12"] .su-entity-item>div:nth-child(2):last-child,.stanford-shared-tags[data-react-columns="12"] .su-entity-item>div:first-child:nth-last-child(2),.stanford-shared-tags[data-react-columns="12"] .su-entity-item>div:nth-child(2):last-child {
+    .layout--layout-paragraphs-one-column .paragraph--type--peking_university-entity .su-entity-item>div:first-child:nth-last-child(2),.layout--layout-paragraphs-one-column .paragraph--type--peking_university-entity .su-entity-item>div:nth-child(2):last-child,.layout--layout-paragraphs-one-column .ptype-peking_university-entity .su-entity-item>div:first-child:nth-last-child(2),.layout--layout-paragraphs-one-column .ptype-peking_university-entity .su-entity-item>div:nth-child(2):last-child,.layout--layout-paragraphs-one-column .peking_university-shared-tags .su-entity-item>div:first-child:nth-last-child(2),.layout--layout-paragraphs-one-column .peking_university-shared-tags .su-entity-item>div:nth-child(2):last-child,.paragraph--type--peking_university-entity[data-react-columns="12"] .su-entity-item>div:first-child:nth-last-child(2),.paragraph--type--peking_university-entity[data-react-columns="12"] .su-entity-item>div:nth-child(2):last-child,.ptype-peking_university-entity[data-react-columns="12"] .su-entity-item>div:first-child:nth-last-child(2),.ptype-peking_university-entity[data-react-columns="12"] .su-entity-item>div:nth-child(2):last-child,.peking_university-shared-tags[data-react-columns="12"] .su-entity-item>div:first-child:nth-last-child(2),.peking_university-shared-tags[data-react-columns="12"] .su-entity-item>div:nth-child(2):last-child {
         width: calc(50% - 40px)
     }
 }
 
 @media only screen and (min-width: 992px) and (min-width:0) {
-    .layout--layout-paragraphs-one-column .paragraph--type--stanford-entity .su-entity-item>div:nth-child(n+4),.layout--layout-paragraphs-one-column .ptype-stanford-entity .su-entity-item>div:nth-child(n+4),.layout--layout-paragraphs-one-column .stanford-shared-tags .su-entity-item>div:nth-child(n+4),.paragraph--type--stanford-entity[data-react-columns="12"] .su-entity-item>div:nth-child(n+4),.ptype-stanford-entity[data-react-columns="12"] .su-entity-item>div:nth-child(n+4),.stanford-shared-tags[data-react-columns="12"] .su-entity-item>div:nth-child(n+4) {
+    .layout--layout-paragraphs-one-column .paragraph--type--peking_university-entity .su-entity-item>div:nth-child(n+4),.layout--layout-paragraphs-one-column .ptype-peking_university-entity .su-entity-item>div:nth-child(n+4),.layout--layout-paragraphs-one-column .peking_university-shared-tags .su-entity-item>div:nth-child(n+4),.paragraph--type--peking_university-entity[data-react-columns="12"] .su-entity-item>div:nth-child(n+4),.ptype-peking_university-entity[data-react-columns="12"] .su-entity-item>div:nth-child(n+4),.peking_university-shared-tags[data-react-columns="12"] .su-entity-item>div:nth-child(n+4) {
         margin-top:5.12rem
     }
 }
 
 @media only screen and (min-width: 992px) and (min-width:768px) {
-    .layout--layout-paragraphs-one-column .paragraph--type--stanford-entity .su-entity-item>div:nth-child(n+4),.layout--layout-paragraphs-one-column .ptype-stanford-entity .su-entity-item>div:nth-child(n+4),.layout--layout-paragraphs-one-column .stanford-shared-tags .su-entity-item>div:nth-child(n+4),.paragraph--type--stanford-entity[data-react-columns="12"] .su-entity-item>div:nth-child(n+4),.ptype-stanford-entity[data-react-columns="12"] .su-entity-item>div:nth-child(n+4),.stanford-shared-tags[data-react-columns="12"] .su-entity-item>div:nth-child(n+4) {
+    .layout--layout-paragraphs-one-column .paragraph--type--peking_university-entity .su-entity-item>div:nth-child(n+4),.layout--layout-paragraphs-one-column .ptype-peking_university-entity .su-entity-item>div:nth-child(n+4),.layout--layout-paragraphs-one-column .peking_university-shared-tags .su-entity-item>div:nth-child(n+4),.paragraph--type--peking_university-entity[data-react-columns="12"] .su-entity-item>div:nth-child(n+4),.ptype-peking_university-entity[data-react-columns="12"] .su-entity-item>div:nth-child(n+4),.peking_university-shared-tags[data-react-columns="12"] .su-entity-item>div:nth-child(n+4) {
         margin-top:5.76rem
     }
 }
 
 @media only screen and (min-width: 992px) and (min-width:1500px) {
-    .layout--layout-paragraphs-one-column .paragraph--type--stanford-entity .su-entity-item>div:nth-child(n+4),.layout--layout-paragraphs-one-column .ptype-stanford-entity .su-entity-item>div:nth-child(n+4),.layout--layout-paragraphs-one-column .stanford-shared-tags .su-entity-item>div:nth-child(n+4),.paragraph--type--stanford-entity[data-react-columns="12"] .su-entity-item>div:nth-child(n+4),.ptype-stanford-entity[data-react-columns="12"] .su-entity-item>div:nth-child(n+4),.stanford-shared-tags[data-react-columns="12"] .su-entity-item>div:nth-child(n+4) {
+    .layout--layout-paragraphs-one-column .paragraph--type--peking_university-entity .su-entity-item>div:nth-child(n+4),.layout--layout-paragraphs-one-column .ptype-peking_university-entity .su-entity-item>div:nth-child(n+4),.layout--layout-paragraphs-one-column .peking_university-shared-tags .su-entity-item>div:nth-child(n+4),.paragraph--type--peking_university-entity[data-react-columns="12"] .su-entity-item>div:nth-child(n+4),.ptype-peking_university-entity[data-react-columns="12"] .su-entity-item>div:nth-child(n+4),.peking_university-shared-tags[data-react-columns="12"] .su-entity-item>div:nth-child(n+4) {
         margin-top:6.08rem
     }
 }
 
-.paragraph--type--stanford-entity .su-entity-button,.ptype-stanford-entity .su-entity-button,.stanford-shared-tags .su-entity-button {
+.paragraph--type--peking_university-entity .su-entity-button,.ptype-peking_university-entity .su-entity-button,.peking_university-shared-tags .su-entity-button {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     display: -webkit-box;
@@ -3696,54 +3696,54 @@ div.tree-child-horizontal {
     justify-content: center
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 {
-    color: #2e2d29;
+.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 {
+    color: #352e2a;
     display: inline-block;
     font-weight: 700;
     margin: 0 0 3rem
 }
 
 @media only screen and (min-width: 768px) {
-    .paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 {
+    .paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 {
         margin-bottom:3.6rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 {
+    .paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 {
         margin-bottom:3.8rem
     }
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2:after {
-    background-color: #b1040e
+.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2:after {
+    background-color: #6E0507
 }
 
 @media only screen and (min-width: 0) {
-    .paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2:after {
+    .paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2:after {
         margin-left:1.07rem
     }
 }
 
 @media only screen and (min-width: 768px) {
-    .paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2:after {
+    .paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2:after {
         margin-left:1.2rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2:after {
+    .paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2:after {
         margin-left:1.27rem
     }
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a {
-    color: #2e2d29;
+.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a {
+    color: #352e2a;
     text-decoration: none
 }
 
 @supports ((-webkit-mask-repeat: no-repeat) or (mask-repeat:no-repeat)) {
-    .paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a:after {
+    .paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a:after {
         content:"";
         display: inline-block;
         height: 1.2rem;
@@ -3754,11 +3754,11 @@ div.tree-child-horizontal {
         width: 1.2rem
     }
 
-    .paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:focus:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:hover:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:focus:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:hover:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:focus:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:hover:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:focus:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:hover:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a:focus:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a:hover:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a:focus:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a:hover:after {
-        background-color: #2e2d29
+    .paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:focus:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:hover:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:focus:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:hover:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:focus:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:hover:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:focus:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:hover:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a:focus:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a:hover:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a:focus:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a:hover:after {
+        background-color: #352e2a
     }
 
-    .paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a:after {
+    .paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a:after {
         background-color: #006cb8;
         margin-left: .4em;
         margin-right: .3em;
@@ -3768,41 +3768,41 @@ div.tree-child-horizontal {
         transition: transform .2s ease-in-out,mask-image .2s ease-in-out,-webkit-transform .2s ease-in-out,-webkit-mask-image .2s ease-in-out
     }
 
-    .paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:focus:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:hover:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:focus:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:hover:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:focus:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:hover:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:focus:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:hover:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a:focus:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a:hover:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a:focus:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a:hover:after {
+    .paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:focus:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:hover:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:focus:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:hover:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:focus:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:hover:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:focus:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:hover:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a:focus:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a:hover:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a:focus:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a:hover:after {
         -webkit-transform: translateX(.2em);
         transform: translateX(.2em)
     }
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a:after {
-    background-color: #b1040e
+.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a:after {
+    background-color: #6E0507
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:active,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:focus,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:hover,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:active,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:focus,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:hover,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:active,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:focus,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:hover,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:active,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:focus,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:hover,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a:active,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a:focus,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a:hover,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a:active,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a:focus,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a:hover {
-    color: #b1040e;
+.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:active,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:focus,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:hover,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:active,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:focus,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:hover,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:active,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:focus,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:hover,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:active,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:focus,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:hover,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a:active,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a:focus,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a:hover,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a:active,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a:focus,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a:hover {
+    color: #6E0507;
     text-decoration: underline
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:active:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:focus:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:hover:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:active:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:focus:after,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:hover:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:active:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:focus:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3 a:hover:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:active:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:focus:after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents>h2 a:hover:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a:active:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a:focus:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 a:hover:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a:active:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a:focus:after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents>h2 a:hover:after {
-    background-color: #b1040e
+.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:active:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:focus:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:hover:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:active:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:focus:after,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:hover:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:active:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:focus:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3 a:hover:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:active:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:focus:after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents>h2 a:hover:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a:active:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a:focus:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 a:hover:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a:active:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a:focus:after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents>h2 a:hover:after {
+    background-color: #6E0507
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents h3,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents h3,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents h3 {
+.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents h3,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents h3 {
     font-size: 1.4em
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics ul,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics ul,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents .su-publication-topics ul {
+.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics ul,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics ul,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents .su-publication-topics ul {
     list-style: none;
     margin: 0;
     padding: 0
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics ul li,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics ul li,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents .su-publication-topics ul li {
+.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics ul li,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics ul li,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents .su-publication-topics ul li {
     display: inline-block
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics a,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics a,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents .su-publication-topics a {
-    color: #b1040e;
+.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a {
+    color: #6E0507;
     font-size: 1.8rem;
     font-weight: 400;
     line-height: 1.3;
@@ -3810,40 +3810,40 @@ div.tree-child-horizontal {
 }
 
 @media (max-width: 767px) {
-    .paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics a,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics a,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents .su-publication-topics a {
+    .paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a {
         font-size:1.6rem
     }
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics a:active,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics a:focus,.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics a:hover,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics a:active,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics a:focus,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics a:hover,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents .su-publication-topics a:active,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents .su-publication-topics a:focus,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents .su-publication-topics a:hover {
-    color: #2e2d29;
+.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a:active,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a:focus,.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a:hover,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a:active,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a:focus,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a:hover,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a:active,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a:focus,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents .su-publication-topics a:hover {
+    color: #352e2a;
     text-decoration: underline
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics li:not(:last-of-type):after,.ptype-stanford-entity .ds-entity--stanford-publication .su-card__contents .su-publication-topics li:not(:last-of-type):after,.stanford-shared-tags .ds-entity--stanford-publication .su-card__contents .su-publication-topics li:not(:last-of-type):after {
+.paragraph--type--peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics li:not(:last-of-type):after,.ptype-peking_university-entity .ds-entity--peking_university-publication .su-card__contents .su-publication-topics li:not(:last-of-type):after,.peking_university-shared-tags .ds-entity--peking_university-publication .su-card__contents .su-publication-topics li:not(:last-of-type):after {
     content: ",";
     padding-right: 5px
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-policy h2,.ptype-stanford-entity .ds-entity--stanford-policy h2,.stanford-shared-tags .ds-entity--stanford-policy h2 {
+.paragraph--type--peking_university-entity .ds-entity--peking_university-policy h2,.ptype-peking_university-entity .ds-entity--peking_university-policy h2,.peking_university-shared-tags .ds-entity--peking_university-policy h2 {
     font-size: 1.5625em;
     letter-spacing: -.012em
 }
 
-.paragraph--type--stanford-entity .ds-entity--stanford-policy h3,.ptype-stanford-entity .ds-entity--stanford-policy h3,.stanford-shared-tags .ds-entity--stanford-policy h3 {
+.paragraph--type--peking_university-entity .ds-entity--peking_university-policy h3,.ptype-peking_university-entity .ds-entity--peking_university-policy h3,.peking_university-shared-tags .ds-entity--peking_university-policy h3 {
     font-size: 1.4em
 }
 
-.paragraph--type--stanford-lists,.ptype-stanford-lists {
+.paragraph--type--peking_university-lists,.ptype-peking_university-lists {
     container: paragraph/inline-size
 }
 
-.paragraph--type--stanford-lists .su-list-headline h2,.ptype-stanford-lists .su-list-headline h2 {
+.paragraph--type--peking_university-lists .su-list-headline h2,.ptype-peking_university-lists .su-list-headline h2 {
     margin: 0;
     text-align: center
 }
 
-.paragraph--type--stanford-lists .su-list-button,.ptype-stanford-lists .su-list-button {
+.paragraph--type--peking_university-lists .su-list-button,.ptype-peking_university-lists .su-list-button {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     display: -webkit-box;
@@ -3853,53 +3853,53 @@ div.tree-child-horizontal {
 }
 
 @container paragraph (max-width:600px) {
-    .paragraph--type--stanford-lists .stanford-events .views-view-grid .views-col,.paragraph--type--stanford-lists .stanford-events .views-view-grid .views-row,.paragraph--type--stanford-lists .stanford-news--cards .views-view-grid .views-col,.paragraph--type--stanford-lists .stanford-news--cards .views-view-grid .views-row,.ptype-stanford-lists .stanford-events .views-view-grid .views-col,.ptype-stanford-lists .stanford-events .views-view-grid .views-row,.ptype-stanford-lists .stanford-news--cards .views-view-grid .views-col,.ptype-stanford-lists .stanford-news--cards .views-view-grid .views-row {
+    .paragraph--type--peking_university-lists .peking_university-events .views-view-grid .views-col,.paragraph--type--peking_university-lists .peking_university-events .views-view-grid .views-row,.paragraph--type--peking_university-lists .peking_university-news--cards .views-view-grid .views-col,.paragraph--type--peking_university-lists .peking_university-news--cards .views-view-grid .views-row,.ptype-peking_university-lists .peking_university-events .views-view-grid .views-col,.ptype-peking_university-lists .peking_university-events .views-view-grid .views-row,.ptype-peking_university-lists .peking_university-news--cards .views-view-grid .views-col,.ptype-peking_university-lists .peking_university-news--cards .views-view-grid .views-row {
         margin-bottom: 3.4rem;
         padding-top: 0
     }
 
     @media only screen and (min-width: 768px) {
-        .paragraph--type--stanford-lists .stanford-events .views-view-grid .views-col,.paragraph--type--stanford-lists .stanford-events .views-view-grid .views-row,.paragraph--type--stanford-lists .stanford-news--cards .views-view-grid .views-col,.paragraph--type--stanford-lists .stanford-news--cards .views-view-grid .views-row,.ptype-stanford-lists .stanford-events .views-view-grid .views-col,.ptype-stanford-lists .stanford-events .views-view-grid .views-row,.ptype-stanford-lists .stanford-news--cards .views-view-grid .views-col,.ptype-stanford-lists .stanford-news--cards .views-view-grid .views-row {
+        .paragraph--type--peking_university-lists .peking_university-events .views-view-grid .views-col,.paragraph--type--peking_university-lists .peking_university-events .views-view-grid .views-row,.paragraph--type--peking_university-lists .peking_university-news--cards .views-view-grid .views-col,.paragraph--type--peking_university-lists .peking_university-news--cards .views-view-grid .views-row,.ptype-peking_university-lists .peking_university-events .views-view-grid .views-col,.ptype-peking_university-lists .peking_university-events .views-view-grid .views-row,.ptype-peking_university-lists .peking_university-news--cards .views-view-grid .views-col,.ptype-peking_university-lists .peking_university-news--cards .views-view-grid .views-row {
             margin-bottom:5.8rem
         }
     }
 
     @media only screen and (min-width: 1500px) {
-        .paragraph--type--stanford-lists .stanford-events .views-view-grid .views-col,.paragraph--type--stanford-lists .stanford-events .views-view-grid .views-row,.paragraph--type--stanford-lists .stanford-news--cards .views-view-grid .views-col,.paragraph--type--stanford-lists .stanford-news--cards .views-view-grid .views-row,.ptype-stanford-lists .stanford-events .views-view-grid .views-col,.ptype-stanford-lists .stanford-events .views-view-grid .views-row,.ptype-stanford-lists .stanford-news--cards .views-view-grid .views-col,.ptype-stanford-lists .stanford-news--cards .views-view-grid .views-row {
+        .paragraph--type--peking_university-lists .peking_university-events .views-view-grid .views-col,.paragraph--type--peking_university-lists .peking_university-events .views-view-grid .views-row,.paragraph--type--peking_university-lists .peking_university-news--cards .views-view-grid .views-col,.paragraph--type--peking_university-lists .peking_university-news--cards .views-view-grid .views-row,.ptype-peking_university-lists .peking_university-events .views-view-grid .views-col,.ptype-peking_university-lists .peking_university-events .views-view-grid .views-row,.ptype-peking_university-lists .peking_university-news--cards .views-view-grid .views-col,.ptype-peking_university-lists .peking_university-news--cards .views-view-grid .views-row {
             margin-bottom:6.1rem
         }
     }
 
-    .paragraph--type--stanford-lists .stanford-events .views-view-grid .views-col:last-of-type,.paragraph--type--stanford-lists .stanford-events .views-view-grid .views-row:last-of-type,.paragraph--type--stanford-lists .stanford-news--cards .views-view-grid .views-col:last-of-type,.paragraph--type--stanford-lists .stanford-news--cards .views-view-grid .views-row:last-of-type,.ptype-stanford-lists .stanford-events .views-view-grid .views-col:last-of-type,.ptype-stanford-lists .stanford-events .views-view-grid .views-row:last-of-type,.ptype-stanford-lists .stanford-news--cards .views-view-grid .views-col:last-of-type,.ptype-stanford-lists .stanford-news--cards .views-view-grid .views-row:last-of-type {
+    .paragraph--type--peking_university-lists .peking_university-events .views-view-grid .views-col:last-of-type,.paragraph--type--peking_university-lists .peking_university-events .views-view-grid .views-row:last-of-type,.paragraph--type--peking_university-lists .peking_university-news--cards .views-view-grid .views-col:last-of-type,.paragraph--type--peking_university-lists .peking_university-news--cards .views-view-grid .views-row:last-of-type,.ptype-peking_university-lists .peking_university-events .views-view-grid .views-col:last-of-type,.ptype-peking_university-lists .peking_university-events .views-view-grid .views-row:last-of-type,.ptype-peking_university-lists .peking_university-news--cards .views-view-grid .views-col:last-of-type,.ptype-peking_university-lists .peking_university-news--cards .views-view-grid .views-row:last-of-type {
         margin-bottom: 0
     }
 
-    .paragraph--type--stanford-lists .view [class*=grid-container],.ptype-stanford-lists .view [class*=grid-container] {
+    .paragraph--type--peking_university-lists .view [class*=grid-container],.ptype-peking_university-lists .view [class*=grid-container] {
         -ms-grid-columns: 1fr;
         grid-template-columns: 1fr
     }
 
-    .paragraph--type--stanford-lists .stanford-people-grid .views-view-grid .views-col,.paragraph--type--stanford-lists .stanford-people-grid .views-view-grid .views-row,.ptype-stanford-lists .stanford-people-grid .views-view-grid .views-col,.ptype-stanford-lists .stanford-people-grid .views-view-grid .views-row {
+    .paragraph--type--peking_university-lists .peking_university-people-grid .views-view-grid .views-col,.paragraph--type--peking_university-lists .peking_university-people-grid .views-view-grid .views-row,.ptype-peking_university-lists .peking_university-people-grid .views-view-grid .views-col,.ptype-peking_university-lists .peking_university-people-grid .views-view-grid .views-row {
         margin-bottom: 3.4rem
     }
 
     @media only screen and (min-width: 768px) {
-        .paragraph--type--stanford-lists .stanford-people-grid .views-view-grid .views-col,.paragraph--type--stanford-lists .stanford-people-grid .views-view-grid .views-row,.ptype-stanford-lists .stanford-people-grid .views-view-grid .views-col,.ptype-stanford-lists .stanford-people-grid .views-view-grid .views-row {
+        .paragraph--type--peking_university-lists .peking_university-people-grid .views-view-grid .views-col,.paragraph--type--peking_university-lists .peking_university-people-grid .views-view-grid .views-row,.ptype-peking_university-lists .peking_university-people-grid .views-view-grid .views-col,.ptype-peking_university-lists .peking_university-people-grid .views-view-grid .views-row {
             margin-bottom:5.8rem
         }
     }
 
     @media only screen and (min-width: 1500px) {
-        .paragraph--type--stanford-lists .stanford-people-grid .views-view-grid .views-col,.paragraph--type--stanford-lists .stanford-people-grid .views-view-grid .views-row,.ptype-stanford-lists .stanford-people-grid .views-view-grid .views-col,.ptype-stanford-lists .stanford-people-grid .views-view-grid .views-row {
+        .paragraph--type--peking_university-lists .peking_university-people-grid .views-view-grid .views-col,.paragraph--type--peking_university-lists .peking_university-people-grid .views-view-grid .views-row,.ptype-peking_university-lists .peking_university-people-grid .views-view-grid .views-col,.ptype-peking_university-lists .peking_university-people-grid .views-view-grid .views-row {
             margin-bottom:6.1rem
         }
     }
 
-    .paragraph--type--stanford-lists .stanford-people-grid .views-view-grid .views-row:last-of-type,.ptype-stanford-lists .stanford-people-grid .views-view-grid .views-row:last-of-type {
+    .paragraph--type--peking_university-lists .peking_university-people-grid .views-view-grid .views-row:last-of-type,.ptype-peking_university-lists .peking_university-people-grid .views-view-grid .views-row:last-of-type {
         margin-bottom: 0
     }
 
-    .paragraph--type--stanford-lists .views-view-grid .views-row>div,.ptype-stanford-lists .views-view-grid .views-row>div {
+    .paragraph--type--peking_university-lists .views-view-grid .views-row>div,.ptype-peking_university-lists .views-view-grid .views-row>div {
         -webkit-box-flex: 0;
         -ms-flex: none;
         flex: none;
@@ -3907,74 +3907,74 @@ div.tree-child-horizontal {
         width: 100%
     }
 
-    .paragraph--type--stanford-lists .views-view-grid .views-row>div: last-of-type,.ptype-stanford-lists .views-view-grid .views-row>div:last-of-type {
+    .paragraph--type--peking_university-lists .views-view-grid .views-row>div: last-of-type,.ptype-peking_university-lists .views-view-grid .views-row>div:last-of-type {
         margin-bottom:0
     }
 
-    .paragraph--type--stanford-lists .su-news-list__item-date+.su-news-list__item .media,.ptype-stanford-lists .su-news-list__item-date+.su-news-list__item .media {
+    .paragraph--type--peking_university-lists .su-news-list__item-date+.su-news-list__item .media,.ptype-peking_university-lists .su-news-list__item-date+.su-news-list__item .media {
         margin-top: 0
     }
 
-    .paragraph--type--stanford-lists .su-news-vertical-teaser.su-card,.ptype-stanford-lists .su-news-vertical-teaser.su-card {
+    .paragraph--type--peking_university-lists .su-news-vertical-teaser.su-card,.ptype-peking_university-lists .su-news-vertical-teaser.su-card {
         margin-bottom: inherit
     }
 
-    .paragraph--type--stanford-lists .su-event-list-item,.ptype-stanford-lists .su-event-list-item {
+    .paragraph--type--peking_university-lists .su-event-list-item,.ptype-peking_university-lists .su-event-list-item {
         display: block
     }
 
-    .paragraph--type--stanford-lists .su-basic-page-types-list img,.paragraph--type--stanford-lists .su-basic-page-types-list picture,.paragraph--type--stanford-lists .su-news-list img,.paragraph--type--stanford-lists .su-news-list picture,.ptype-stanford-lists .su-basic-page-types-list img,.ptype-stanford-lists .su-basic-page-types-list picture,.ptype-stanford-lists .su-news-list img,.ptype-stanford-lists .su-news-list picture {
+    .paragraph--type--peking_university-lists .su-basic-page-types-list img,.paragraph--type--peking_university-lists .su-basic-page-types-list picture,.paragraph--type--peking_university-lists .su-news-list img,.paragraph--type--peking_university-lists .su-news-list picture,.ptype-peking_university-lists .su-basic-page-types-list img,.ptype-peking_university-lists .su-basic-page-types-list picture,.ptype-peking_university-lists .su-news-list img,.ptype-peking_university-lists .su-news-list picture {
         display: none
     }
 }
 
-.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-col,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-row,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-col,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-row,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-col,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-row,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-col,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-row {
+.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-col,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-row,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-col,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-row,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-col,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-row,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-col,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-row {
     margin-bottom: 3.4rem;
     padding-top: 0
 }
 
 @media only screen and (min-width: 768px) {
-    .paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-col,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-row,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-col,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-row,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-col,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-row,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-col,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-row {
+    .paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-col,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-row,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-col,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-row,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-col,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-row,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-col,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-row {
         margin-bottom:5.8rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-col,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-row,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-col,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-row,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-col,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-row,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-col,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-row {
+    .paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-col,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-row,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-col,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-row,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-col,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-row,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-col,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-row {
         margin-bottom:6.1rem
     }
 }
 
-.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-col:last-of-type,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-row:last-of-type,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-col:last-of-type,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-row:last-of-type,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-col:last-of-type,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-events .views-view-grid .views-row:last-of-type,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-col:last-of-type,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-news--cards .views-view-grid .views-row:last-of-type {
+.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-col:last-of-type,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-row:last-of-type,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-col:last-of-type,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-row:last-of-type,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-col:last-of-type,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-events .views-view-grid .views-row:last-of-type,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-col:last-of-type,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-news--cards .views-view-grid .views-row:last-of-type {
     margin-bottom: 0
 }
 
-.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .view [class*=grid-container],.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .view [class*=grid-container] {
+.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .view [class*=grid-container],.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .view [class*=grid-container] {
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr
 }
 
-.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-col,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-row,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-col,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-row {
+.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-col,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-row,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-col,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-row {
     margin-bottom: 3.4rem
 }
 
 @media only screen and (min-width: 768px) {
-    .paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-col,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-row,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-col,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-row {
+    .paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-col,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-row,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-col,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-row {
         margin-bottom:5.8rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-col,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-row,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-col,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-row {
+    .paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-col,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-row,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-col,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-row {
         margin-bottom:6.1rem
     }
 }
 
-.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-row:last-of-type,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .stanford-people-grid .views-view-grid .views-row:last-of-type {
+.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-row:last-of-type,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .peking_university-people-grid .views-view-grid .views-row:last-of-type {
     margin-bottom: 0
 }
 
-.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .views-view-grid .views-row>div,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .views-view-grid .views-row>div {
+.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .views-view-grid .views-row>div,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .views-view-grid .views-row>div {
     -webkit-box-flex: 0;
     -ms-flex: none;
     flex: none;
@@ -3982,82 +3982,82 @@ div.tree-child-horizontal {
     width: 100%
 }
 
-.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .views-view-grid .views-row>div:last-of-type,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .views-view-grid .views-row>div:last-of-type {
+.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .views-view-grid .views-row>div:last-of-type,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .views-view-grid .views-row>div:last-of-type {
     margin-bottom: 0
 }
 
-.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-list__item-date+.su-news-list__item .media,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-list__item-date+.su-news-list__item .media {
+.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-list__item-date+.su-news-list__item .media,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-list__item-date+.su-news-list__item .media {
     margin-top: 0
 }
 
-.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-vertical-teaser.su-card,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-vertical-teaser.su-card {
+.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-vertical-teaser.su-card,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-vertical-teaser.su-card {
     margin-bottom: inherit
 }
 
-.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-event-list-item,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-event-list-item {
+.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-event-list-item,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-event-list-item {
     display: block
 }
 
-.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-basic-page-types-list img,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-basic-page-types-list picture,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-list img,.paragraph--type--stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-list picture,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-basic-page-types-list img,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-basic-page-types-list picture,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-list img,.ptype-stanford-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-list picture {
+.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-basic-page-types-list img,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-basic-page-types-list picture,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-list img,.paragraph--type--peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-list picture,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-basic-page-types-list img,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-basic-page-types-list picture,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-list img,.ptype-peking_university-lists[data-react-columns]:not([data-react-columns="12"]) .su-news-list picture {
     display: none
 }
 
-.paragraph--type--stanford-lists .stanford-basic-pages .views-view-grid .su-basic-page-types-view-row,.ptype-stanford-lists .stanford-basic-pages .views-view-grid .su-basic-page-types-view-row {
+.paragraph--type--peking_university-lists .peking_university-basic-pages .views-view-grid .su-basic-page-types-view-row,.ptype-peking_university-lists .peking_university-basic-pages .views-view-grid .su-basic-page-types-view-row {
     margin-bottom: 3.4rem
 }
 
 @media only screen and (min-width: 768px) {
-    .paragraph--type--stanford-lists .stanford-basic-pages .views-view-grid .su-basic-page-types-view-row,.ptype-stanford-lists .stanford-basic-pages .views-view-grid .su-basic-page-types-view-row {
+    .paragraph--type--peking_university-lists .peking_university-basic-pages .views-view-grid .su-basic-page-types-view-row,.ptype-peking_university-lists .peking_university-basic-pages .views-view-grid .su-basic-page-types-view-row {
         margin-bottom:5.8rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .paragraph--type--stanford-lists .stanford-basic-pages .views-view-grid .su-basic-page-types-view-row,.ptype-stanford-lists .stanford-basic-pages .views-view-grid .su-basic-page-types-view-row {
+    .paragraph--type--peking_university-lists .peking_university-basic-pages .views-view-grid .su-basic-page-types-view-row,.ptype-peking_university-lists .peking_university-basic-pages .views-view-grid .su-basic-page-types-view-row {
         margin-bottom:6.1rem
     }
 }
 
-.paragraph--type--stanford-lists .stanford-basic-pages .views-view-grid .su-basic-page-types-view-row:last-of-type,.ptype-stanford-lists .stanford-basic-pages .views-view-grid .su-basic-page-types-view-row:last-of-type {
+.paragraph--type--peking_university-lists .peking_university-basic-pages .views-view-grid .su-basic-page-types-view-row:last-of-type,.ptype-peking_university-lists .peking_university-basic-pages .views-view-grid .su-basic-page-types-view-row:last-of-type {
     margin-bottom: 0
 }
 
-.paragraph--type--stanford-lists.flex-4-of-12 .su-basic-page-types-view-column,.paragraph--type--stanford-lists.flex-6-of-12 .su-basic-page-types-view-column,.ptype-stanford-lists.flex-4-of-12 .su-basic-page-types-view-column,.ptype-stanford-lists.flex-6-of-12 .su-basic-page-types-view-column {
+.paragraph--type--peking_university-lists.flex-4-of-12 .su-basic-page-types-view-column,.paragraph--type--peking_university-lists.flex-6-of-12 .su-basic-page-types-view-column,.ptype-peking_university-lists.flex-4-of-12 .su-basic-page-types-view-column,.ptype-peking_university-lists.flex-6-of-12 .su-basic-page-types-view-column {
     margin-bottom: 3.4rem
 }
 
 @media only screen and (min-width: 768px) {
-    .paragraph--type--stanford-lists.flex-4-of-12 .su-basic-page-types-view-column,.paragraph--type--stanford-lists.flex-6-of-12 .su-basic-page-types-view-column,.ptype-stanford-lists.flex-4-of-12 .su-basic-page-types-view-column,.ptype-stanford-lists.flex-6-of-12 .su-basic-page-types-view-column {
+    .paragraph--type--peking_university-lists.flex-4-of-12 .su-basic-page-types-view-column,.paragraph--type--peking_university-lists.flex-6-of-12 .su-basic-page-types-view-column,.ptype-peking_university-lists.flex-4-of-12 .su-basic-page-types-view-column,.ptype-peking_university-lists.flex-6-of-12 .su-basic-page-types-view-column {
         margin-bottom:5.8rem
     }
 }
 
 @media only screen and (min-width: 1500px) {
-    .paragraph--type--stanford-lists.flex-4-of-12 .su-basic-page-types-view-column,.paragraph--type--stanford-lists.flex-6-of-12 .su-basic-page-types-view-column,.ptype-stanford-lists.flex-4-of-12 .su-basic-page-types-view-column,.ptype-stanford-lists.flex-6-of-12 .su-basic-page-types-view-column {
+    .paragraph--type--peking_university-lists.flex-4-of-12 .su-basic-page-types-view-column,.paragraph--type--peking_university-lists.flex-6-of-12 .su-basic-page-types-view-column,.ptype-peking_university-lists.flex-4-of-12 .su-basic-page-types-view-column,.ptype-peking_university-lists.flex-6-of-12 .su-basic-page-types-view-column {
         margin-bottom:6.1rem
     }
 }
 
-.paragraph--type--stanford-lists.flex-4-of-12 .su-basic-page-types-view-column:last-of-type,.paragraph--type--stanford-lists.flex-6-of-12 .su-basic-page-types-view-column:last-of-type,.ptype-stanford-lists.flex-4-of-12 .su-basic-page-types-view-column:last-of-type,.ptype-stanford-lists.flex-6-of-12 .su-basic-page-types-view-column:last-of-type {
+.paragraph--type--peking_university-lists.flex-4-of-12 .su-basic-page-types-view-column:last-of-type,.paragraph--type--peking_university-lists.flex-6-of-12 .su-basic-page-types-view-column:last-of-type,.ptype-peking_university-lists.flex-4-of-12 .su-basic-page-types-view-column:last-of-type,.ptype-peking_university-lists.flex-6-of-12 .su-basic-page-types-view-column:last-of-type {
     margin-bottom: 0
 }
 
 @media (min-width: 1200px) {
-    .paragraph--type--stanford-lists:not(.flex-12-of-12) .stanford-news--list div:first-child .su-news-list,.ptype-stanford-lists:not(.flex-12-of-12) .stanford-news--list div:first-child .su-news-list {
+    .paragraph--type--peking_university-lists:not(.flex-12-of-12) .peking_university-news--list div:first-child .su-news-list,.ptype-peking_university-lists:not(.flex-12-of-12) .peking_university-news--list div:first-child .su-news-list {
         padding-top:0
     }
 }
 
-.paragraph--type--stanford-lists[data-react-columns="4"] .su-news-list__header,.paragraph--type--stanford-lists[data-react-columns="6"] .su-news-list__header,.ptype-stanford-lists[data-react-columns="4"] .su-news-list__header,.ptype-stanford-lists[data-react-columns="6"] .su-news-list__header {
+.paragraph--type--peking_university-lists[data-react-columns="4"] .su-news-list__header,.paragraph--type--peking_university-lists[data-react-columns="6"] .su-news-list__header,.ptype-peking_university-lists[data-react-columns="4"] .su-news-list__header,.ptype-peking_university-lists[data-react-columns="6"] .su-news-list__header {
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr
 }
 
-.paragraph--type--stanford-lists[data-react-columns="4"] .stanford-people-grid .flex-container,.paragraph--type--stanford-lists[data-react-columns="6"] .stanford-people-grid .flex-container,.ptype-stanford-lists[data-react-columns="4"] .stanford-people-grid .flex-container,.ptype-stanford-lists[data-react-columns="6"] .stanford-people-grid .flex-container {
+.paragraph--type--peking_university-lists[data-react-columns="4"] .peking_university-people-grid .flex-container,.paragraph--type--peking_university-lists[data-react-columns="6"] .peking_university-people-grid .flex-container,.ptype-peking_university-lists[data-react-columns="4"] .peking_university-people-grid .flex-container,.ptype-peking_university-lists[data-react-columns="6"] .peking_university-people-grid .flex-container {
     display: unset
 }
 
-.paragraph--type--stanford-lists[data-react-columns="4"] .su-event-list-item__date,.paragraph--type--stanford-lists[data-react-columns="6"] .su-event-list-item__date,.ptype-stanford-lists[data-react-columns="4"] .su-event-list-item__date,.ptype-stanford-lists[data-react-columns="6"] .su-event-list-item__date {
+.paragraph--type--peking_university-lists[data-react-columns="4"] .su-event-list-item__date,.paragraph--type--peking_university-lists[data-react-columns="6"] .su-event-list-item__date,.ptype-peking_university-lists[data-react-columns="4"] .su-event-list-item__date,.ptype-peking_university-lists[data-react-columns="6"] .su-event-list-item__date {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
@@ -4067,49 +4067,49 @@ div.tree-child-horizontal {
 }
 
 @media (min-width: 992px) {
-    .container-1-items .ptype-stanford-lists .field--name-su-list-view,.container-2-items .ptype-stanford-lists .field--name-su-list-view,.container-3-items .ptype-stanford-lists .field--name-su-list-view {
+    .container-1-items .ptype-peking_university-lists .field--name-su-list-view,.container-2-items .ptype-peking_university-lists .field--name-su-list-view,.container-3-items .ptype-peking_university-lists .field--name-su-list-view {
         padding-left:1.5rem;
         padding-right: 3rem
     }
 }
 
 @media only screen and (min-width: 992px) and (min-width:768px) {
-    .container-1-items .ptype-stanford-lists .field--name-su-list-view,.container-2-items .ptype-stanford-lists .field--name-su-list-view,.container-3-items .ptype-stanford-lists .field--name-su-list-view {
+    .container-1-items .ptype-peking_university-lists .field--name-su-list-view,.container-2-items .ptype-peking_university-lists .field--name-su-list-view,.container-3-items .ptype-peking_university-lists .field--name-su-list-view {
         padding-left:1.8rem;
         padding-right: 3.6rem
     }
 }
 
 @media only screen and (min-width: 992px) and (min-width:1500px) {
-    .container-1-items .ptype-stanford-lists .field--name-su-list-view,.container-2-items .ptype-stanford-lists .field--name-su-list-view,.container-3-items .ptype-stanford-lists .field--name-su-list-view {
+    .container-1-items .ptype-peking_university-lists .field--name-su-list-view,.container-2-items .ptype-peking_university-lists .field--name-su-list-view,.container-3-items .ptype-peking_university-lists .field--name-su-list-view {
         padding-left:1.9rem;
         padding-right: 3.8rem
     }
 }
 
-.ds-entity--stanford-event-series .su-card {
+.ds-entity--peking_university-event-series .su-card {
     font-size: 1em
 }
 
-.ds-entity--stanford-event-series .su-card .su-event-series-dek {
+.ds-entity--peking_university-event-series .su-card .su-event-series-dek {
     display: none
 }
 
-.ds-entity--stanford-event-series .su-card h3 {
+.ds-entity--peking_university-event-series .su-card h3 {
     font-size: 1.4em
 }
 
-.ds-entity--stanford-event-series .su-card a {
-    color: #2e2d29;
+.ds-entity--peking_university-event-series .su-card a {
+    color: #352e2a;
     text-decoration: none
 }
 
-.ds-entity--stanford-event-series .su-card a:focus,.ds-entity--stanford-event-series .su-card a:hover {
-    color: #b1040e;
+.ds-entity--peking_university-event-series .su-card a:focus,.ds-entity--peking_university-event-series .su-card a:hover {
+    color: #6E0507;
     text-decoration: underline
 }
 
-body.front .node-stanford-page-title {
+body.front .node-peking_university-page-title {
     clip: rect(0,0,0,0);
     border: 0;
     height: 1px;
@@ -4445,7 +4445,7 @@ body.front .node-stanford-page-title {
 }
 
 .su-wysiwyg-text h2 a,.su-wysiwyg-text h3 a,.su-wysiwyg-text h4 a,.su-wysiwyg-text h5 a,.su-wysiwyg-text h6 a {
-    color: #b1040e;
+    color: #6E0507;
     text-decoration: none
 }
 
@@ -4462,7 +4462,7 @@ body.front .node-stanford-page-title {
     }
 
     .su-wysiwyg-text h2 a:focus:after,.su-wysiwyg-text h2 a:hover:after,.su-wysiwyg-text h3 a:focus:after,.su-wysiwyg-text h3 a:hover:after,.su-wysiwyg-text h4 a:focus:after,.su-wysiwyg-text h4 a:hover:after,.su-wysiwyg-text h5 a:focus:after,.su-wysiwyg-text h5 a:hover:after,.su-wysiwyg-text h6 a:focus:after,.su-wysiwyg-text h6 a:hover:after {
-        background-color: #2e2d29
+        background-color: #352e2a
     }
 
     .su-wysiwyg-text h2 a:after,.su-wysiwyg-text h3 a:after,.su-wysiwyg-text h4 a:after,.su-wysiwyg-text h5 a:after,.su-wysiwyg-text h6 a:after {
@@ -4499,7 +4499,7 @@ body.front .node-stanford-page-title {
     }
 
     .su-wysiwyg-text h2 a.su-link--external:focus:after,.su-wysiwyg-text h2 a.su-link--external:hover:after,.su-wysiwyg-text h3 a.su-link--external:focus:after,.su-wysiwyg-text h3 a.su-link--external:hover:after,.su-wysiwyg-text h4 a.su-link--external:focus:after,.su-wysiwyg-text h4 a.su-link--external:hover:after,.su-wysiwyg-text h5 a.su-link--external:focus:after,.su-wysiwyg-text h5 a.su-link--external:hover:after,.su-wysiwyg-text h6 a.su-link--external:focus:after,.su-wysiwyg-text h6 a.su-link--external:hover:after {
-        background-color: #2e2d29
+        background-color: #352e2a
     }
 
     .su-wysiwyg-text h2 a.su-link--external:after,.su-wysiwyg-text h3 a.su-link--external:after,.su-wysiwyg-text h4 a.su-link--external:after,.su-wysiwyg-text h5 a.su-link--external:after,.su-wysiwyg-text h6 a.su-link--external:after {
@@ -4519,16 +4519,16 @@ body.front .node-stanford-page-title {
 }
 
 .su-wysiwyg-text h2 a.su-link--external:after,.su-wysiwyg-text h3 a.su-link--external:after,.su-wysiwyg-text h4 a.su-link--external:after,.su-wysiwyg-text h5 a.su-link--external:after,.su-wysiwyg-text h6 a.su-link--external:after {
-    background-color: #b1040e
+    background-color: #6E0507
 }
 
 .su-wysiwyg-text h2 a:active,.su-wysiwyg-text h2 a:focus,.su-wysiwyg-text h2 a:hover,.su-wysiwyg-text h3 a:active,.su-wysiwyg-text h3 a:focus,.su-wysiwyg-text h3 a:hover,.su-wysiwyg-text h4 a:active,.su-wysiwyg-text h4 a:focus,.su-wysiwyg-text h4 a:hover,.su-wysiwyg-text h5 a:active,.su-wysiwyg-text h5 a:focus,.su-wysiwyg-text h5 a:hover,.su-wysiwyg-text h6 a:active,.su-wysiwyg-text h6 a:focus,.su-wysiwyg-text h6 a:hover {
-    color: #2e2d29;
+    color: #352e2a;
     text-decoration: underline
 }
 
 .su-wysiwyg-text h2 a:after,.su-wysiwyg-text h3 a:after,.su-wysiwyg-text h4 a:after,.su-wysiwyg-text h5 a:after,.su-wysiwyg-text h6 a:after {
-    background-color: #b1040e
+    background-color: #6E0507
 }
 
 .su-wysiwyg-text .localist-widget h2 a:active,.su-wysiwyg-text .localist-widget h2 a:focus,.su-wysiwyg-text .localist-widget h2 a:hover,.su-wysiwyg-text .localist-widget h3 a:active,.su-wysiwyg-text .localist-widget h3 a:focus,.su-wysiwyg-text .localist-widget h3 a:hover,.su-wysiwyg-text .localist-widget h4 a:active,.su-wysiwyg-text .localist-widget h4 a:focus,.su-wysiwyg-text .localist-widget h4 a:hover,.su-wysiwyg-text .localist-widget h5 a:active,.su-wysiwyg-text .localist-widget h5 a:focus,.su-wysiwyg-text .localist-widget h5 a:hover,.su-wysiwyg-text .localist-widget h6 a:active,.su-wysiwyg-text .localist-widget h6 a:focus,.su-wysiwyg-text .localist-widget h6 a:hover {

@@ -17499,7 +17499,7 @@ document.documentElement.className += ' js';
             OnArrowLeftLV1_createClass(OnArrowLeftLV1, [{
                 key: "handleDesktop",
                 value: function handleDesktop() {
-                    if (drupalSettings.stanford_basic.nav_dropdown_enabled) {
+                    if (drupalSettings.peking_university_basic.nav_dropdown_enabled) {
                         this.handleMobile();
                         return;
                     }
@@ -17633,7 +17633,7 @@ document.documentElement.className += ' js';
             OnArrowRightLV1_createClass(OnArrowRightLV1, [{
                 key: "handleDesktop",
                 value: function handleDesktop() {
-                    if (drupalSettings.stanford_basic.nav_dropdown_enabled) {
+                    if (drupalSettings.peking_university_basic.nav_dropdown_enabled) {
                         this.handleMobile();
                         return;
                     }
@@ -17772,7 +17772,7 @@ document.documentElement.className += ' js';
             OnArrowDownToggleLV1_createClass(OnArrowDownToggleLV1, [{
                 key: "handleDesktop",
                 value: function handleDesktop() {
-                    if (drupalSettings.stanford_basic.nav_dropdown_enabled) {
+                    if (drupalSettings.peking_university_basic.nav_dropdown_enabled) {
                         this.handleMobile();
                         return;
                     }
@@ -17904,7 +17904,7 @@ document.documentElement.className += ' js';
             OnClickToggleLV1_createClass(OnClickToggleLV1, [{
                 key: "handleDesktop",
                 value: function handleDesktop() {
-                    if (drupalSettings.stanford_basic.nav_dropdown_enabled) {
+                    if (drupalSettings.peking_university_basic.nav_dropdown_enabled) {
                         this.handleMobile();
                         return;
                     }
@@ -18040,7 +18040,7 @@ document.documentElement.className += ' js';
             OnArrowUpToggleLV1_createClass(OnArrowUpToggleLV1, [{
                 key: "handleDesktop",
                 value: function handleDesktop() {
-                    if (drupalSettings.stanford_basic.nav_dropdown_enabled) {
+                    if (drupalSettings.peking_university_basic.nav_dropdown_enabled) {
                         this.handleMobile();
                         return;
                     }
@@ -18690,7 +18690,7 @@ document.documentElement.className += ' js';
 ;;(function() {
     var __webpack_modules__ = ({
         7496: (function() {
-            var header = document.getElementById('block-stanford-basic-local-tasks');
+            var header = document.getElementById('block-peking_university-basic-local-tasks');
             var sticky = 0;
             if (header) {
                 sticky = header.getBoundingClientRect().top;
@@ -18717,7 +18717,7 @@ document.documentElement.className += ' js';
         }
         ),
         2696: (function() {
-            window.Drupal.behaviors.stanford_basic = {
+            window.Drupal.behaviors.peking_university_basic = {
                 attach: function attach(context, settings) {
                     (function($, once) {
                         var $mc = $('#main-content', context).length;
@@ -18730,7 +18730,7 @@ document.documentElement.className += ' js';
                         if ($search.length) {
                             var $clonedSearch = $search.clone();
                             $clonedSearch.addClass('search-block-form');
-                            $clonedSearch.attr('id', 'block-stanford-basic-search-mobile');
+                            $clonedSearch.attr('id', 'block-peking_university-basic-search-mobile');
                             $clonedSearch.find('[id]').each(function(i, element) {
                                 var idAttribute = $(element).attr('id');
                                 $clonedSearch.find("[for=\"".concat(idAttribute, "\"]")).attr('for', "".concat(idAttribute, "-mobile"));
@@ -18738,9 +18738,9 @@ document.documentElement.className += ' js';
                             });
                             $clonedSearch.prependTo('.su-masthead .su-multi-menu > ul', context).wrap('<li class="su-mobile-site-search"></li>');
                         }
-                        var localTab = $('#block-stanford-basic-local-tasks', context);
+                        var localTab = $('#block-peking_university-basic-local-tasks', context);
                         if (localTab.length)
-                            $('.page-content', context).addClass('stanford-basic--outline');
+                            $('.page-content', context).addClass('peking_university-basic--outline');
                         var userLogin = $('.page-user-login', context);
                         if (userLogin)
                             $('.su-back-to-site', context).removeClass('hidden');
@@ -18789,7 +18789,7 @@ document.documentElement.className += ' js';
     !function() {
         "use strict";
         var StickyHeaderOnScroll = __webpack_require__(7496);
-        ;;var stanford_basic_behavior = __webpack_require__(2696);
+        ;;var peking_university_basic_behavior = __webpack_require__(2696);
         ;
     }();
 }
@@ -18953,7 +18953,7 @@ document.documentElement.className += ' js';
 )(jQuery, Drupal, drupalSettings);
 ;(function($) {
     'use strict';
-    Drupal.behaviors.stanfordProfileHelperSiteImprove = {
+    Drupal.behaviors.peking_universityProfileHelperSiteImprove = {
         attach: function() {
             const analyticsSrc = '//siteimproveanalytics.com/js/siteanalyze_80352.js';
             if ($(`script[src*="${analyticsSrc}"]`).length === 0) {
@@ -18966,7 +18966,7 @@ document.documentElement.className += ' js';
 )(jQuery);
 ;(function($, Drupal, once) {
     'use strict';
-    Drupal.behaviors.stanfordMedia = {
+    Drupal.behaviors.peking_universityMedia = {
         attach: function(context, settings) {
             $(once('oembed-titles', '[data-oembed-resource]', context)).each(function() {
                 const $oembedElement = $(this);
