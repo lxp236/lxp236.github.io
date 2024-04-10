@@ -4122,12 +4122,6 @@ div.tree-child-horizontal {
 body.front .node-peking_university-page-title {
     clip: rect(0,0,0,0);
     border: 0;
-    height: 1px;
-    margin: 0;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px
 }
 
 .su-page-components .layout--layout-paragraphs-one-column {
@@ -5085,7 +5079,7 @@ body.front .node-peking_university-page-title {
 .layout__region--sidebar1{
     grid-area: paper1;
 }
-.layout__region--main1{
+.layout__region--sidebar2{
     grid-area: paper2;
 }
 .layout__region--sidebar3{

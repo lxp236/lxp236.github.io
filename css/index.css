@@ -322,6 +322,26 @@ input:focus,select:focus,textarea:focus {
     box-shadow: 0 0 3px #53565a,0 0 7px #53565a
 }
 
+.flex-container1 {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.flex-container1::after{
+    content: '';
+    display: block;
+    width: 30%;
+    visibility: hidden;
+}
 .flex-container {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -4362,7 +4382,11 @@ address,cite,dfn,var {
     box-shadow: inset 0 0 0 2px #fff;
     color: #fff
 }
-
+.people_pku_nano{
+    max-width: 100%;
+    width: 40%;
+    display: block;
+}
 .su-alert--success a.su-button--big {
     background-color: #6E0507;
     background-color: #008531;
